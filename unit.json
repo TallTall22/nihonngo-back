@@ -1,0 +1,783 @@
+[
+  {
+    "id":26,
+    "title":"ごみはどこに出したらいいですか",
+    "vocabularies":[
+  {
+    "id": 1,
+    "name": "見ます",
+    "meaning": "看、診斷",
+    "sentence": "この問題は私には答えられない",
+    "answer": "みます",
+    "userAnswer": ""
+  },
+  {
+    "id": 2,
+    "name": "探します、捜します",
+    "meaning": "尋找",
+    "sentence": "",
+    "answer": "さがします",
+    "userAnswer": ""
+  },
+  {
+    "id": 3,
+    "name": "遅れます",
+    "meaning": "晚、沒趕上",
+    "sentence": "",
+    "answer": "おくれます",
+    "userAnswer": ""
+  },
+  {
+    "id": 4,
+    "name": "間に　合います",
+    "meaning": "趕上",
+    "sentence": "",
+    "answer": "まに あいます",
+    "userAnswer": ""
+  },
+  {
+    "id": 5,
+    "name": "やります",
+    "meaning": "做、從事",
+    "sentence": "",
+    "answer": "やります",
+    "userAnswer": ""
+  },
+  {
+    "id": 6,
+    "name": "拾います",
+    "meaning": "拾、撿",
+    "sentence": "",
+    "answer": "ひろいます",
+    "userAnswer": ""
+  },
+  {
+    "id": 7,
+    "name": "連絡します。",
+    "meaning": "聯繫",
+    "sentence": "",
+    "answer": "れんらくします",
+    "userAnswer": ""
+  },
+  {
+    "id": 8,
+    "name": "気分が　いい",
+    "meaning": "舒服",
+    "sentence": "",
+    "answer": "きぶんが いい",
+    "userAnswer": ""
+  },
+  {
+    "id": 9,
+    "name": "気分が　悪い",
+    "meaning": "不舒服",
+    "sentence": "",
+    "answer": "きぶんが わるい",
+    "userAnswer": ""
+  },
+  {
+    "id": 10,
+    "name": "運動会",
+    "meaning": "運動會",
+    "sentence": "",
+    "answer": "うんどうかい",
+    "userAnswer": ""
+  },
+  {
+    "id": 11,
+    "name": "盆踊り",
+    "meaning": "盂蘭盆節舞",
+    "sentence": "",
+    "answer": "ぼんおどり",
+    "userAnswer": ""
+  },
+  {
+    "id": 12,
+    "name": "フリーマーケット",
+    "meaning": "跳蚤市場",
+    "sentence": "",
+    "answer": "フリーマーケット",
+    "userAnswer": ""
+  },
+  {
+    "id": 13,
+    "name": "場所",
+    "meaning": "場所、地點",
+    "sentence": "",
+    "answer": "ばしょ",
+    "userAnswer": ""
+  },
+  {
+    "id": 14,
+    "name": "ボランティア",
+    "meaning": "義工、志願者",
+    "sentence": "",
+    "answer": "ボランティア",
+    "userAnswer": ""
+  },
+  {
+    "id": 15,
+    "name": "財布",
+    "meaning": "錢包",
+    "sentence": "",
+    "answer": "さいふ",
+    "userAnswer": ""
+  },
+  {
+    "id": 16,
+    "name": "ごみ",
+    "meaning": "垃圾",
+    "sentence": "",
+    "answer": "ごみ",
+    "userAnswer": ""
+  },
+  {
+    "id": 17,
+    "name": "国会議事堂",
+    "meaning": "國會議事堂",
+    "sentence": "",
+    "answer": "こっかいぎじどう",
+    "userAnswer": ""
+  },
+  {
+    "id": 18,
+    "name": "平日",
+    "meaning": "平日",
+    "sentence": "",
+    "answer": "へいじつ",
+    "userAnswer": ""
+  },
+  {
+    "id": 19,
+    "name": "弁",
+    "meaning": "方言",
+    "sentence": "",
+    "answer": "べん",
+    "userAnswer": ""
+  },
+  {
+    "id": 20,
+    "name": "今度",
+    "meaning": "這次、下次",
+    "sentence": "",
+    "answer": "こんど",
+    "userAnswer": ""
+  },
+  {
+    "id": 21,
+    "name": "ずいぶん",
+    "meaning": "極其、相當、很",
+    "sentence": "",
+    "answer": "ずいぶん",
+    "userAnswer": ""
+  },
+  {
+    "id": 22,
+    "name": "直接",
+    "meaning": "直接",
+    "sentence": "",
+    "answer": "ちょくせつ",
+    "userAnswer": ""
+  },
+  {
+    "id": 23,
+    "name": "いつでも",
+    "meaning": "隨時",
+    "sentence": "",
+    "answer": "いつでも",
+    "userAnswer": ""
+  },
+  {
+    "id": 24,
+    "name": "どこでも",
+    "meaning": "在任何地方都",
+    "sentence": "",
+    "answer": "どこでも",
+    "userAnswer": ""
+  },
+  {
+    "id": 25,
+    "name": "だれでも",
+    "meaning": "任何人都",
+    "sentence": "",
+    "answer": "だれでも",
+    "userAnswer": ""
+  },
+  {
+    "id": 26,
+    "name": "何でも",
+    "meaning": "什麼都",
+    "sentence": "",
+    "answer": "なんでも",
+    "userAnswer": ""
+  },
+  {
+    "id": 27,
+    "name": "こんな",
+    "meaning": "這樣的",
+    "sentence": "",
+    "answer": "こんな",
+    "userAnswer": ""
+  },
+  {
+    "id": 28,
+    "name": "そんな",
+    "meaning": "那樣的",
+    "sentence": "",
+    "answer": "そんな",
+    "userAnswer": ""
+  },
+  {
+    "id": 29,
+    "name": "あんな",
+    "meaning": "那樣的",
+    "sentence": "",
+    "answer": "あんな",
+    "userAnswer": ""
+  },
+  {
+    "id": 30,
+    "name": "片づきます",
+    "meaning": "收拾",
+    "sentence": "",
+    "answer": "かたづきます",
+    "userAnswer": ""
+  },
+  {
+    "id": 31,
+    "name": "出します",
+    "meaning": "扔、倒",
+    "sentence": "",
+    "answer": "だします",
+    "userAnswer": ""
+  },
+  {
+    "id": 32,
+    "name": "燃える　ごみ",
+    "meaning": "可燃垃圾",
+    "sentence": "",
+    "answer": "もえる ごみ",
+    "userAnswer": ""
+  },
+  {
+    "id": 33,
+    "name": "置き場",
+    "meaning": "放置處",
+    "sentence": "",
+    "answer": "おきば",
+    "userAnswer": ""
+  },
+  {
+    "id": 34,
+    "name": "横",
+    "meaning": "旁邊",
+    "sentence": "",
+    "answer": "よこ",
+    "userAnswer": ""
+  },
+  {
+    "id": 35,
+    "name": "瓶",
+    "meaning": "瓶子",
+    "sentence": "",
+    "answer": "びん",
+    "userAnswer": ""
+  },
+  {
+    "id": 36,
+    "name": "缶",
+    "meaning": "罐子",
+    "sentence": "",
+    "answer": "かん",
+    "userAnswer": ""
+  },
+  {
+    "id": 37,
+    "name": "ガス",
+    "meaning": "瓦斯",
+    "sentence": "",
+    "answer": "ガス",
+    "userAnswer": ""
+  },
+  {
+    "id": 38,
+    "name": "会社",
+    "meaning": "公司",
+    "sentence": "",
+    "answer": "かいしゃ",
+    "userAnswer": ""
+  },
+  {
+    "id": 39,
+    "name": "宇宙",
+    "meaning": "宇宙",
+    "sentence": "",
+    "answer": "うちゅう",
+    "userAnswer": ""
+  },
+  {
+    "id": 40,
+    "name": "様",
+    "meaning": "先生、女士(「～さん」的尊敬語)",
+    "sentence": "",
+    "answer": "さま",
+    "userAnswer": ""
+  },
+  {
+    "id": 41,
+    "name": "宇宙船",
+    "meaning": "太空船",
+    "sentence": "",
+    "answer": "うちゅうせん",
+    "userAnswer": ""
+  },
+  {
+    "id": 42,
+    "name": "怖い",
+    "meaning": "害怕、可怕",
+    "sentence": "",
+    "answer": "こわい",
+    "userAnswer": ""
+  },
+  {
+    "id": 43,
+    "name": "宇宙ステーション",
+    "meaning": "太空站",
+    "sentence": "",
+    "answer": "うちゅうステーション",
+    "userAnswer": ""
+  },
+  {
+    "id": 44,
+    "name": "違います",
+    "meaning": "不一樣",
+    "sentence": "",
+    "answer": "ちがいます",
+    "userAnswer": ""
+  },
+  {
+    "id": 45,
+    "name": "宇宙飛行士",
+    "meaning": "太空人",
+    "sentence": "",
+    "answer": "うちゅうひこうし",
+    "userAnswer": ""
+  }
+]
+},
+  {
+  "id": 39,
+  "title": "遅れて、すみません",
+  "vocabularies": [
+    {
+      "id": 1,
+      "name": "答えます",
+      "meaning": "回答",
+      "sentence": "この問題は私には答えられない",
+      "answer": "こたえます",
+      "userAnswer": ""
+    },
+    {
+      "id": 2,
+      "name": "倒れます",
+      "meaning": "倒塌",
+      "sentence": "地震でビルが倒れました",
+      "answer": "たおれます",
+      "userAnswer": ""
+    },
+    {
+      "id": 3,
+      "name": "通ります",
+      "meaning": "通過、過",
+      "sentence": "このバスは駅前を通りますか",
+      "answer": "とおります",
+      "userAnswer": ""
+    },
+    {
+      "id": 4,
+      "name": "死にます",
+      "meaning": "死",
+      "sentence": "今日は暑くて死にそう",
+      "answer": "しにます",
+      "userAnswer": ""
+    },
+    {
+      "id": 5,
+      "name": "びっくりします",
+      "meaning": "吃驚",
+      "sentence": "ニュースを聞いて、びっくりしました",
+      "answer": "びっくりします",
+      "userAnswer": ""
+    },
+    {
+      "id": 6,
+      "name": "がっかりします",
+      "meaning": "失望",
+      "sentence": "富士山が見えなくて、がっかりしました",
+      "answer": "がっかりします",
+      "userAnswer": ""
+    },
+    {
+      "id": 7,
+      "name": "安心します",
+      "meaning": "安心、放心",
+      "sentence": "電話をもらって、安心しました",
+      "answer": "あんしんします",
+      "userAnswer": ""
+    },
+    {
+      "id": 8,
+      "name": "けんかします",
+      "meaning": "吵架、打架",
+      "sentence": "最近、母とよく喧嘩をする",
+      "answer": "けんかします",
+      "userAnswer": ""
+    },
+    {
+      "id": 9,
+      "name": "離婚します",
+      "meaning": "離婚",
+      "sentence": "3年前に離婚しました",
+      "answer": "りこんします",
+      "userAnswer": ""
+    },
+    {
+      "id": 10,
+      "name": "太ります",
+      "meaning": "胖",
+      "sentence": "あなたは太りましたか",
+      "answer": "ふとります",
+      "userAnswer": ""
+    },
+    {
+      "id": 11,
+      "name": "やせます",
+      "meaning": "瘦",
+      "sentence": "彼女は瘦せすぎてる",
+      "answer": "やせます",
+      "userAnswer": ""
+    },
+    {
+      "id": 12,
+      "name": "複雑",
+      "meaning": "複雜",
+      "sentence": "そんな複雑な文は理解できません",
+      "answer": "ふくざつ",
+      "userAnswer": ""
+    },
+    {
+      "id": 13,
+      "name": "邪魔",
+      "meaning": "妨礙、打攪",
+      "sentence": "お忙しいところをお邪魔してすみません",
+      "answer": "じゃま",
+      "userAnswer": ""
+    },
+    {
+      "id": 14,
+      "name": "硬い",
+      "meaning": "硬、堅硬",
+      "sentence": "この物は石と同じように硬い",
+      "answer": "かたい",
+      "userAnswer": ""
+    },
+    {
+      "id": 15,
+      "name": "軟らかい",
+      "meaning": "軟、柔軟",
+      "sentence": "そのセーターは手触りがとても柔らかい",
+      "answer": "やわらかい",
+      "userAnswer": ""
+    },
+    {
+      "id": 16,
+      "name": "汚い",
+      "meaning": "髒、骯髒",
+      "sentence": "汚い手で食べちゃダメよ",
+      "answer": "きたない",
+      "userAnswer": ""
+    },
+    {
+      "id": 17,
+      "name": "うれしい",
+      "meaning": "高興",
+      "sentence": "皆の仲間になれて嬉しいです",
+      "answer": "うれしい",
+      "userAnswer": ""
+    },
+    {
+      "id": 18,
+      "name": "悲しい",
+      "meaning": "悲傷",
+      "sentence": "そのドラマは悲しい物語です",
+      "answer": "かなしい",
+      "userAnswer": ""
+    },
+    {
+      "id": 19,
+      "name": "恥ずかしい",
+      "meaning": "害羞、不好意思",
+      "sentence": "日本語を話すのが恥ずかしいです",
+      "answer": "はずかしい",
+      "userAnswer": ""
+    },
+    {
+      "id": 20,
+      "name": "首相",
+      "meaning": "首相",
+      "sentence": "首相が入院したのをしってうますか",
+      "answer": "しゅしょう",
+      "userAnswer": ""
+    },
+    {
+      "id": 21,
+      "name": "地震",
+      "meaning": "地震",
+      "sentence": "地震でうちが壊れました",
+      "answer": "じしん",
+      "userAnswer": ""
+    },
+    {
+      "id": 22,
+      "name": "津波",
+      "meaning": "地震",
+      "sentence": "津波で友達を亡くしました",
+      "answer": "つなみ",
+      "userAnswer": ""
+    },
+    {
+      "id": 23,
+      "name": "台風",
+      "meaning": "颱風",
+      "sentence": "台風で木が倒れました",
+      "answer": "たいふう",
+      "userAnswer": ""
+    },
+    {
+      "id": 24,
+      "name": "雷",
+      "meaning": "雷",
+      "sentence": "今日は雷と雨がすごいです",
+      "answer": "かみなり",
+      "userAnswer": ""
+    },
+    {
+      "id": 25,
+      "name": "火事",
+      "meaning": "火災",
+      "sentence": "火事でデパートが焼けました",
+      "answer": "かじ",
+      "userAnswer": ""
+    },
+    {
+      "id": 26,
+      "name": "事故",
+      "meaning": "事故",
+      "sentence": "事故があって、バスが遅れてしまいました",
+      "answer": "じこ",
+      "userAnswer": ""
+    },
+    {
+      "id": 27,
+      "name": "ハイキング",
+      "meaning": "遠足、徒步旅行",
+      "sentence": "連休があるとハイキングにいきます",
+      "answer": "ハイキング",
+      "userAnswer": ""
+    },
+    {
+      "id": 28,
+      "name": "お見合い",
+      "meaning": "相親",
+      "sentence": "今日、お見合いに行きます",
+      "answer": "おみあい",
+      "userAnswer": ""
+    },
+    {
+      "id": 29,
+      "name": "操作",
+      "meaning": "操作",
+      "sentence": "最近の車は操作が簡単ですね",
+      "answer": "そうさ",
+      "userAnswer": ""
+    },
+    {
+      "id": 30,
+      "name": "会場",
+      "meaning": "會場",
+      "sentence": "ホテルから会場までは歩いて10分です",
+      "answer": "かいじょう",
+      "userAnswer": ""
+    },
+    {
+      "id": 31,
+      "name": "代",
+      "meaning": "~費",
+      "sentence": "先月の電話代がいくらかかったか、教えてください",
+      "answer": "だい",
+      "userAnswer": ""
+    },
+    {
+      "id": 32,
+      "name": "屋",
+      "meaning": "店",
+      "sentence": "その菓子屋の商品はほとんど売り切れていた",
+      "answer": "や",
+      "userAnswer": ""
+    },
+    {
+      "id": 33,
+      "name": "フロント",
+      "meaning": "(飯店等的)櫃台、詢問處",
+      "sentence": "鍵はフロントにお返しください",
+      "answer": "フロント",
+      "userAnswer": ""
+    },
+    {
+      "id": 34,
+      "name": "号室",
+      "meaning": "號房間",
+      "sentence": "5号室で会議を行いましょう",
+      "answer": "ごうしつ",
+      "userAnswer": ""
+    },
+    {
+      "id": 35,
+      "name": "タオル",
+      "meaning": "毛巾",
+      "sentence": "浴場にはハンドタオルだけ持って入れます",
+      "answer": "タオル",
+      "userAnswer": ""
+    },
+    {
+      "id": 36,
+      "name": "せっけん",
+      "meaning": "肥皂、香皂",
+      "sentence": "このせっけんはとても良い香りがします",
+      "answer": "せっけん",
+      "userAnswer": ""
+    },
+    {
+      "id": 37,
+      "name": "大勢",
+      "meaning": "很多(人)",
+      "sentence": "どうして人が大勢並んでいるんですか",
+      "answer": "おおぜい",
+      "userAnswer": ""
+    },
+    {
+      "id": 38,
+      "name": "お疲れさまでした",
+      "meaning": "您辛苦了",
+      "sentence": "お疲れさまでした、ゆっくり寝てください",
+      "answer": "おつかれさまでした",
+      "userAnswer": ""
+    },
+    {
+      "id": 39,
+      "name": "伺います",
+      "meaning": "去。/拜訪。(「いきます」的謙讓語)",
+      "sentence": "約束の時間にそちらに伺います",
+      "answer": "うかがいます",
+      "userAnswer": ""
+    },
+    {
+      "id": 40,
+      "name": "途中で",
+      "meaning": "(在)途中、路上；半途",
+      "sentence": "マラソンの途中で気分が悪くなりました",
+      "answer": "とちゅうで",
+      "userAnswer": ""
+    },
+    {
+      "id": 41,
+      "name": "トラック",
+      "meaning": "卡車",
+      "sentence": "門のところにトラックが1台駐車している",
+      "answer": "トラック",
+      "userAnswer": ""
+    },
+    {
+      "id": 42,
+      "name": "ぶつかります",
+      "meaning": "撞、碰",
+      "sentence": "交差点でトラックと車がぶつかって、バスが動かなかったんです",
+      "answer": "ぶつかります",
+      "userAnswer": ""
+    },
+    {
+      "id": 43,
+      "name": "大人",
+      "meaning": "大人、成年人",
+      "sentence": "大人は責任を持つべきです",
+      "answer": "おとな",
+      "userAnswer": ""
+    },
+    {
+      "id": 44,
+      "name": "しかし",
+      "meaning": "但是",
+      "sentence": "今は忙しい、しかし、後で会いましょう",
+      "answer": "しかし",
+      "userAnswer": ""
+    },
+    {
+      "id": 45,
+      "name": "また",
+      "meaning": "還有、且",
+      "sentence": "今日は雨です。また、明日も雨の予報です",
+      "answer": "また",
+      "userAnswer": ""
+    },
+    {
+      "id": 46,
+      "name": "洋服",
+      "meaning": "西式服裝",
+      "sentence": "彼女は洋服のセールで新しい服を買いました",
+      "answer": "ようふく",
+      "userAnswer": ""
+    },
+    {
+      "id": 47,
+      "name": "西洋化します",
+      "meaning": "西化",
+      "sentence": "日本は西洋化の影響を受けて、文化が変わりました",
+      "answer": "せいようかします",
+      "userAnswer": ""
+    },
+    {
+      "id": 48,
+      "name": "合います",
+      "meaning": "適合、合適",
+      "sentence": "この靴は足に合いますか",
+      "answer": "あいます",
+      "userAnswer": ""
+    },
+    {
+      "id": 49,
+      "name": "今では",
+      "meaning": "現在",
+      "sentence": "昔は電話がなかったが、今ではスマートフォンがあります",
+      "answer": "いまでは",
+      "userAnswer": ""
+    },
+    {
+      "id": 50,
+      "name": "成人式",
+      "meaning": "成人禮",
+      "sentence": "日本では20歳になると成人式が行われます",
+      "answer": "せいじんしき",
+      "userAnswer": ""
+    },
+    {
+      "id": 51,
+      "name": "伝統的",
+      "meaning": "傳統的",
+      "sentence": "この祭りは伝統的な日本の文化を祝うものです",
+      "answer": "でんとうてき",
+      "userAnswer": ""
+    }
+  ]
+}
+
+]
