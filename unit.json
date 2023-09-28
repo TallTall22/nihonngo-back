@@ -7,15 +7,15 @@
     "id": 1,
     "name": "見ます",
     "meaning": "看、診斷",
-    "sentence": "この問題は私には答えられない",
+    "sentence": "パソコンの調子が悪いんですが、見ていただけません",
     "answer": "みます",
-    "userAnswer": ""
+    "userAnswer": "か"
   },
   {
     "id": 2,
     "name": "探します、捜します",
     "meaning": "尋找",
-    "sentence": "",
+    "sentence": "トイレを探しですか",
     "answer": "さがします",
     "userAnswer": ""
   },
@@ -23,7 +23,7 @@
     "id": 3,
     "name": "遅れます",
     "meaning": "晚、沒趕上",
-    "sentence": "",
+    "sentence": "どうして遅れたんですか",
     "answer": "おくれます",
     "userAnswer": ""
   },
@@ -31,7 +31,7 @@
     "id": 4,
     "name": "間に　合います",
     "meaning": "趕上",
-    "sentence": "",
+    "sentence": "どうして会議に間に合わなかったんですか",
     "answer": "まに あいます",
     "userAnswer": ""
   },
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "やります",
     "meaning": "做、從事",
-    "sentence": "",
+    "sentence": "夏休みの宿題はやりましたか",
     "answer": "やります",
     "userAnswer": ""
   },
@@ -47,7 +47,7 @@
     "id": 6,
     "name": "拾います",
     "meaning": "拾、撿",
-    "sentence": "",
+    "sentence": "猫を拾ったんですが、どうしたらいいですか",
     "answer": "ひろいます",
     "userAnswer": ""
   },
@@ -55,7 +55,7 @@
     "id": 7,
     "name": "連絡します。",
     "meaning": "聯繫",
-    "sentence": "",
+    "sentence": "すぐ連絡しますから、ちょっと待っていてください",
     "answer": "れんらくします",
     "userAnswer": ""
   },
@@ -63,7 +63,7 @@
     "id": 8,
     "name": "気分が　いい",
     "meaning": "舒服",
-    "sentence": "",
+    "sentence": "わたしは今日はとても気分がいいです",
     "answer": "きぶんが いい",
     "userAnswer": ""
   },
@@ -71,7 +71,7 @@
     "id": 9,
     "name": "気分が　悪い",
     "meaning": "不舒服",
-    "sentence": "",
+    "sentence": "あまり食べませんね。気分が悪いんですか",
     "answer": "きぶんが わるい",
     "userAnswer": ""
   },
@@ -79,7 +79,7 @@
     "id": 10,
     "name": "運動会",
     "meaning": "運動會",
-    "sentence": "",
+    "sentence": "運動会に参加しますか",
     "answer": "うんどうかい",
     "userAnswer": ""
   },
@@ -87,7 +87,7 @@
     "id": 11,
     "name": "盆踊り",
     "meaning": "盂蘭盆節舞",
-    "sentence": "",
+    "sentence": "盆踊りに行きました",
     "answer": "ぼんおどり",
     "userAnswer": ""
   },
@@ -95,7 +95,7 @@
     "id": 12,
     "name": "フリーマーケット",
     "meaning": "跳蚤市場",
-    "sentence": "",
+    "sentence": "このカバンはフリーマーケットで買いました",
     "answer": "フリーマーケット",
     "userAnswer": ""
   },
@@ -103,7 +103,7 @@
     "id": 13,
     "name": "場所",
     "meaning": "場所、地點",
-    "sentence": "",
+    "sentence": "店の場所を教えていただけませんか",
     "answer": "ばしょ",
     "userAnswer": ""
   },
@@ -111,7 +111,7 @@
     "id": 14,
     "name": "ボランティア",
     "meaning": "義工、志願者",
-    "sentence": "",
+    "sentence": "ボランティアをしたいんですが、どうしたらいいですか",
     "answer": "ボランティア",
     "userAnswer": ""
   },
@@ -119,7 +119,7 @@
     "id": 15,
     "name": "財布",
     "meaning": "錢包",
-    "sentence": "",
+    "sentence": "わたしは財布を忘れました",
     "answer": "さいふ",
     "userAnswer": ""
   },
@@ -127,7 +127,7 @@
     "id": 16,
     "name": "ごみ",
     "meaning": "垃圾",
-    "sentence": "",
+    "sentence": "ここは粗大ごみ置き場ではありません",
     "answer": "ごみ",
     "userAnswer": ""
   },
@@ -135,7 +135,7 @@
     "id": 17,
     "name": "国会議事堂",
     "meaning": "國會議事堂",
-    "sentence": "",
+    "sentence": "国会議事堂を見学したいんですが、どうしたらいいですか",
     "answer": "こっかいぎじどう",
     "userAnswer": ""
   },
@@ -143,7 +143,7 @@
     "id": 18,
     "name": "平日",
     "meaning": "平日",
-    "sentence": "",
+    "sentence": "平日は何をしますか",
     "answer": "へいじつ",
     "userAnswer": ""
   },
@@ -151,7 +151,7 @@
     "id": 19,
     "name": "弁",
     "meaning": "方言",
-    "sentence": "",
+    "sentence": "鈴木さんは時々大阪弁を使います",
     "answer": "べん",
     "userAnswer": ""
   },
@@ -159,7 +159,7 @@
     "id": 20,
     "name": "今度",
     "meaning": "這次、下次",
-    "sentence": "",
+    "sentence": "今度の映画が楽しみです",
     "answer": "こんど",
     "userAnswer": ""
   },
@@ -167,7 +167,7 @@
     "id": 21,
     "name": "ずいぶん",
     "meaning": "極其、相當、很",
-    "sentence": "",
+    "sentence": "ずいぶんにぎやかですね。何をやっているんですか",
     "answer": "ずいぶん",
     "userAnswer": ""
   },
@@ -175,7 +175,7 @@
     "id": 22,
     "name": "直接",
     "meaning": "直接",
-    "sentence": "",
+    "sentence": "わたしはそこから直接かに帰りました",
     "answer": "ちょくせつ",
     "userAnswer": ""
   },
@@ -183,7 +183,7 @@
     "id": 23,
     "name": "いつでも",
     "meaning": "隨時",
-    "sentence": "",
+    "sentence": "いつでも連絡ください",
     "answer": "いつでも",
     "userAnswer": ""
   },
@@ -191,7 +191,7 @@
     "id": 24,
     "name": "どこでも",
     "meaning": "在任何地方都",
-    "sentence": "",
+    "sentence": "わたしはどこでもねることができます",
     "answer": "どこでも",
     "userAnswer": ""
   },
@@ -199,7 +199,7 @@
     "id": 25,
     "name": "だれでも",
     "meaning": "任何人都",
-    "sentence": "",
+    "sentence": "そのイベントにはだれでも参加できます",
     "answer": "だれでも",
     "userAnswer": ""
   },
@@ -207,7 +207,7 @@
     "id": 26,
     "name": "何でも",
     "meaning": "什麼都",
-    "sentence": "",
+    "sentence": "デパートには何でも売っています",
     "answer": "なんでも",
     "userAnswer": ""
   },
@@ -215,7 +215,7 @@
     "id": 27,
     "name": "こんな",
     "meaning": "這樣的",
-    "sentence": "",
+    "sentence": "こんなことがあるんですか",
     "answer": "こんな",
     "userAnswer": ""
   },
@@ -223,7 +223,7 @@
     "id": 28,
     "name": "そんな",
     "meaning": "那樣的",
-    "sentence": "",
+    "sentence": "わたしもそんな帽子を探しているんです",
     "answer": "そんな",
     "userAnswer": ""
   },
@@ -231,7 +231,7 @@
     "id": 29,
     "name": "あんな",
     "meaning": "那樣的",
-    "sentence": "",
+    "sentence": "あんな不味い物はたべたことがありません",
     "answer": "あんな",
     "userAnswer": ""
   },
@@ -239,7 +239,7 @@
     "id": 30,
     "name": "片づきます",
     "meaning": "收拾",
-    "sentence": "",
+    "sentence": "引っ越しの荷物は片づきましたか",
     "answer": "かたづきます",
     "userAnswer": ""
   },
@@ -247,7 +247,7 @@
     "id": 31,
     "name": "出します",
     "meaning": "扔、倒",
-    "sentence": "",
+    "sentence": "ごみはどこに出したらいいですか",
     "answer": "だします",
     "userAnswer": ""
   },
@@ -255,7 +255,7 @@
     "id": 32,
     "name": "燃える　ごみ",
     "meaning": "可燃垃圾",
-    "sentence": "",
+    "sentence": "燃えるごみは火曜日と金曜日のあさ出してください",
     "answer": "もえる ごみ",
     "userAnswer": ""
   },
@@ -263,7 +263,7 @@
     "id": 33,
     "name": "置き場",
     "meaning": "放置處",
-    "sentence": "",
+    "sentence": "ごみ置き場は駐車場の横です",
     "answer": "おきば",
     "userAnswer": ""
   },
@@ -271,7 +271,7 @@
     "id": 34,
     "name": "横",
     "meaning": "旁邊",
-    "sentence": "",
+    "sentence": "電話は階段の横にございます",
     "answer": "よこ",
     "userAnswer": ""
   },
@@ -279,7 +279,7 @@
     "id": 35,
     "name": "瓶",
     "meaning": "瓶子",
-    "sentence": "",
+    "sentence": "瓶には少し牛乳があります",
     "answer": "びん",
     "userAnswer": ""
   },
@@ -287,7 +287,7 @@
     "id": 36,
     "name": "缶",
     "meaning": "罐子",
-    "sentence": "",
+    "sentence": "ジュースの缶はどこに捨てましょか",
     "answer": "かん",
     "userAnswer": ""
   },
@@ -295,7 +295,7 @@
     "id": 37,
     "name": "ガス",
     "meaning": "瓦斯",
-    "sentence": "",
+    "sentence": "ガス会社に連絡したら、すぐ来てくれます",
     "answer": "ガス",
     "userAnswer": ""
   },
@@ -303,7 +303,7 @@
     "id": 38,
     "name": "会社",
     "meaning": "公司",
-    "sentence": "",
+    "sentence": "コンピューターソフト会社を作りたいです",
     "answer": "かいしゃ",
     "userAnswer": ""
   },
@@ -311,7 +311,7 @@
     "id": 39,
     "name": "宇宙",
     "meaning": "宇宙",
-    "sentence": "",
+    "sentence": "宇宙は広大です",
     "answer": "うちゅう",
     "userAnswer": ""
   },
@@ -319,7 +319,7 @@
     "id": 40,
     "name": "様",
     "meaning": "先生、女士(「～さん」的尊敬語)",
-    "sentence": "",
+    "sentence": "お客様、どうぞごゆっくりお過ごしください",
     "answer": "さま",
     "userAnswer": ""
   },
@@ -327,7 +327,7 @@
     "id": 41,
     "name": "宇宙船",
     "meaning": "太空船",
-    "sentence": "",
+    "sentence": "宇宙船は宇宙を探索します",
     "answer": "うちゅうせん",
     "userAnswer": ""
   },
@@ -335,7 +335,7 @@
     "id": 42,
     "name": "怖い",
     "meaning": "害怕、可怕",
-    "sentence": "",
+    "sentence": "暗い森は怖いです",
     "answer": "こわい",
     "userAnswer": ""
   },
@@ -343,7 +343,7 @@
     "id": 43,
     "name": "宇宙ステーション",
     "meaning": "太空站",
-    "sentence": "",
+    "sentence": "国際宇宙ステーションは宇宙で活動しています",
     "answer": "うちゅうステーション",
     "userAnswer": ""
   },
@@ -351,7 +351,7 @@
     "id": 44,
     "name": "違います",
     "meaning": "不一樣",
-    "sentence": "",
+    "sentence": "それは違います",
     "answer": "ちがいます",
     "userAnswer": ""
   },
@@ -359,11 +359,71 @@
     "id": 45,
     "name": "宇宙飛行士",
     "meaning": "太空人",
-    "sentence": "",
+    "sentence": "宇宙飛行士は宇宙で実験を行います",
     "answer": "うちゅうひこうし",
     "userAnswer": ""
   }
 ]
+},
+{
+"id":27,
+"title":"何でも作れるんですね",
+"vocabularies":[]
+},
+{
+"id":28,
+"title":"出張も多いし、試験もあるし．．．",
+"vocabularies":[]
+},
+{
+"id":29,
+"title":"忘れ物をしてしまったんです",
+"vocabularies":[]
+},
+{
+"id":30,
+"title":"非常袋を準備しておかないと",
+"vocabularies":[]
+},
+{
+"id":31,
+"title":"料理を習おうと思っています",
+"vocabularies":[]
+},
+{
+"id":32,
+"title":"無理をしないほうがいいですよ",
+"vocabularies":[]
+},
+{
+"id":33,
+"title":"これはどういう意味ですか",
+"vocabularies":[]
+},
+{
+"id":34,
+"title":"わたしがしたとおりに、してください",
+"vocabularies":[]
+},
+{
+"id":35,
+"title":"どこかいい所、ありませんか",
+"vocabularies":[]
+},
+{
+"id":36,
+"title":"毎日運動するようにしています",
+"vocabularies":[]
+},
+{
+"id":37,
+"title":"金閣寺は14世紀に建てられました",
+"vocabularies":[]
+},
+{
+"id":38,
+"title":"片づけるのがすきなんです",
+"vocabularies":[]
 },
   {
   "id": 39,
