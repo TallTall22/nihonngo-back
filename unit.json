@@ -368,7 +368,360 @@
 {
 "id":27,
 "title":"何でも作れるんですね",
-"vocabularies":[]
+"vocabularies":[
+  {
+    "id": 1,
+    "name": "飼います",
+    "meaning": "飼養",
+    "sentence": "小さい鳥は飼えますが、犬や猫は飼えません",
+    "answer": "かいます",
+    "userAnswer": ""
+  },
+  {
+    "id": 2,
+    "name": "走ります",
+    "meaning": "跑、奔跑",
+    "sentence": "駅まで走りましたが、電車が行ってしまいました",
+    "answer": "はしります",
+    "userAnswer": ""
+  },
+  {
+    "id": 3,
+    "name": "見えます",
+    "meaning": "看得見",
+    "sentence": "山がはっきり見えます",
+    "answer": "みえます",
+    "userAnswer": ""
+  },
+  {
+    "id": 4,
+    "name": "聞こえます",
+    "meaning": "聽得見",
+    "sentence": "鳥の声が聞こえますね",
+    "answer": "きこえます",
+    "userAnswer": ""
+  },
+  {
+    "id": 5,
+    "name": "できます",
+    "meaning": "建好、修好",
+    "sentence": "駅の前に大きいスーパーができました",
+    "answer": "できます",
+    "userAnswer": ""
+  },
+  {
+    "id": 6,
+    "name": "開きます",
+    "meaning": "開",
+    "sentence": "その店は何時に開きますか",
+    "answer": "ひらきます",
+    "userAnswer": ""
+  },
+  {
+    "id": 7,
+    "name": "心配",
+    "meaning": "擔心",
+    "sentence": "なにか心配なことがあるんですか",
+    "answer": "しんぱい",
+    "userAnswer": ""
+  },
+  {
+    "id": 8,
+    "name": "ペット",
+    "meaning": "寵物",
+    "sentence": "何か家でペットをかってますか",
+    "answer": "ペット",
+    "userAnswer": ""
+  },
+  {
+    "id": 9,
+    "name": "鳥",
+    "meaning": "鳥",
+    "sentence": "わたしたちはたくさんの鳥を見ました",
+    "answer": "とり",
+    "userAnswer": ""
+  },
+  {
+    "id": 10,
+    "name": "声",
+    "meaning": "聲音",
+    "sentence": "先生の声が聞こえません",
+    "answer": "こえ",
+    "userAnswer": ""
+  },
+  {
+    "id": 11,
+    "name": "波",
+    "meaning": "波浪",
+    "sentence": "波の音が聞こえます",
+    "answer": "なみ",
+    "userAnswer": ""
+  },
+  {
+    "id": 12,
+    "name": "花火",
+    "meaning": "煙火",
+    "sentence": "2階から花火が見えます",
+    "answer": "はなび",
+    "userAnswer": ""
+  },
+  {
+    "id": 13,
+    "name": "道具",
+    "meaning": "工具",
+    "sentence": "道具を片づけましょうか",
+    "answer": "どうぐ",
+    "userAnswer": ""
+  },
+  {
+    "id": 14,
+    "name": "クリーニング",
+    "meaning": "(乾)洗、洗衣",
+    "sentence": "クリーニングはいつできますか",
+    "answer": "クリーニング",
+    "userAnswer": ""
+  },
+  {
+    "id": 15,
+    "name": "家",
+    "meaning": "家、住宅",
+    "sentence": "わたしの夢はいつか自分で家を建てることなんです",
+    "answer": "いえ",
+    "userAnswer": ""
+  },
+  {
+    "id": 16,
+    "name": "マンション",
+    "meaning": "公寓",
+    "sentence": "このマンションでペットが飼えますが",
+    "answer": "マンション",
+    "userAnswer": ""
+  },
+  {
+    "id": 17,
+    "name": "キッチン",
+    "meaning": "廚房",
+    "sentence": "ごはんをキッチンで食べます",
+    "answer": "キッチン",
+    "userAnswer": ""
+  },
+  {
+    "id": 18,
+    "name": "教室",
+    "meaning": "教室",
+    "sentence": "毎週金曜日に必ず英会話教室に行きます",
+    "answer": "きょうしつ",
+    "userAnswer": ""
+  },
+  {
+    "id": 19,
+    "name": "パーティールーム",
+    "meaning": "宴會廳",
+    "sentence": "こちらでパーティールームがひらけますか",
+    "answer": "パーティールーム",
+    "userAnswer": ""
+  },
+  {
+    "id": 20,
+    "name": "方",
+    "meaning": "人(「ひと」的尊敬語)",
+    "sentence": "あの方はどなたですか",
+    "answer": "かた",
+    "userAnswer": ""
+  },
+  {
+    "id": 21,
+    "name": "後",
+    "meaning": "～後",
+    "sentence": "6時間後に起きます",
+    "answer": "ご",
+    "userAnswer": ""
+  },
+  {
+    "id": 22,
+    "name": "しか",
+    "meaning": "只",
+    "sentence": "3時間しか寝ませんでしたから、眠いです",
+    "answer": "しか",
+    "userAnswer": ""
+  },
+  {
+    "id": 23,
+    "name": "ほかの",
+    "meaning": "其他的",
+    "sentence": "英語は話せますが、ほかの言葉は話せません",
+    "answer": "ほかの",
+    "userAnswer": ""
+  },
+  {
+    "id": 24,
+    "name": "はっきり",
+    "meaning": "清楚地",
+    "sentence": "山の上から海がはっきり見えます",
+    "answer": "はっきり",
+    "userAnswer": ""
+  },
+  {
+    "id": 25,
+    "name": "家具",
+    "meaning": "家具",
+    "sentence": "趣味は自分で家具を作ることなんです",
+    "answer": "かぐ",
+    "userAnswer": ""
+  },
+  {
+    "id": 26,
+    "name": "本棚",
+    "meaning": "書架",
+    "sentence": "彼が買った本が本棚に並んでいます",
+    "answer": "ほんだな",
+    "userAnswer": ""
+  },
+  {
+    "id": 27,
+    "name": "いつか",
+    "meaning": "什麼時候",
+    "sentence": "いつかコンピューターの会社を作りたいです",
+    "answer": "いつか",
+    "userAnswer": ""
+  },
+  {
+    "id": 28,
+    "name": "建てます",
+    "meaning": "建、蓋",
+    "sentence": "おとうさんは木の家をたてています",
+    "answer": "たてます",
+    "userAnswer": ""
+  },
+  {
+    "id": 29,
+    "name": "すばらしい",
+    "meaning": "很棒、了不起",
+    "sentence": "こんなすばらしい料理をわたしには作れません",
+    "answer": "すばらしい",
+    "userAnswer": ""
+  },
+  {
+    "id": 30,
+    "name": "子どもたち",
+    "meaning": "孩子們",
+    "sentence": "子どもたちは公園で楽しく遊んでいます",
+    "answer": "こどもたち",
+    "userAnswer": ""
+  },
+  {
+    "id": 31,
+    "name": "大好き",
+    "meaning": "非常喜歡",
+    "sentence": "わたしはこの歌がだいすきです",
+    "answer": "だいすき",
+    "userAnswer": ""
+  },
+  {
+    "id": 32,
+    "name": "主人公",
+    "meaning": "主人翁",
+    "sentence": "この物語のしゅじんこうは若い英雄です",
+    "answer": "しゅじんこう",
+    "userAnswer": ""
+  },
+  {
+    "id": 33,
+    "name": "形",
+    "meaning": "形狀、樣子",
+    "sentence": "この芸術品のかたちはとてもユニークです",
+    "answer": "かたち",
+    "userAnswer": ""
+  },
+  {
+    "id": 34,
+    "name": "不思議",
+    "meaning": "不可思議",
+    "sentence": "森の中にはふしぎな生物がたくさんいます",
+    "answer": "ふしぎ",
+    "userAnswer": ""
+  },
+  {
+    "id": 35,
+    "name": "ポケット",
+    "meaning": "口袋",
+    "sentence": "わたしは鍵をポケットに入れました",
+    "answer": "ポケット",
+    "userAnswer": ""
+  },
+  {
+    "id": 36,
+    "name": "例えば",
+    "meaning": "例如",
+    "sentence": "たとえば、ビーチに行ったり山にハイキングに行ったりできます",
+    "answer": "たとえば",
+    "userAnswer": ""
+  },
+  {
+    "id": 37,
+    "name": "付けます",
+    "meaning": "戴上",
+    "sentence": "彼女はきれいなネックレスをつけるのが好きです",
+    "answer": "つけます",
+    "userAnswer": ""
+  },
+  {
+    "id": 38,
+    "name": "自由に",
+    "meaning": "自由地、隨意地",
+    "sentence": "あなたはじゆうに趣味を選ぶことができます",
+    "answer": "じゆうに",
+    "userAnswer": ""
+  },
+  {
+    "id": 39,
+    "name": "空",
+    "meaning": "天空",
+    "sentence": "そらにはたくさんの明るい星があります",
+    "answer": "そら",
+    "userAnswer": ""
+  },
+  {
+    "id": 40,
+    "name": "飛びます",
+    "meaning": "飛、飛翔",
+    "sentence": "鳥は空をとびます",
+    "answer": "とびます",
+    "userAnswer": ""
+  },
+  {
+    "id": 41,
+    "name": "昔",
+    "meaning": "過去、以前",
+    "sentence": "むかし、わたしはこの町に住んでいました",
+    "answer": "むかし",
+    "userAnswer": ""
+  },
+  {
+    "id": 42,
+    "name": "自分",
+    "meaning": "自己",
+    "sentence": "じぶんを理解することは重要な旅です",
+    "answer": "じぶん",
+    "userAnswer": ""
+  },
+  {
+    "id": 43,
+    "name": "将来",
+    "meaning": "將來",
+    "sentence": "わたしはたくさんの夢を持っており、それらをしょうらいに実現したいです",
+    "answer": "しょうらい",
+    "userAnswer": ""
+  },
+  {
+    "id": 44,
+    "name": "ドラえもん",
+    "meaning": "哆啦A夢",
+    "sentence": "子どもたちはだいすきドラえもん",
+    "answer": "ドラえもん",
+    "userAnswer": ""
+  }
+]
 },
 {
 "id":28,
