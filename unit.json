@@ -726,7 +726,440 @@
 {
 "id":28,
 "title":"出張も多いし、試験もあるし．．．",
-"vocabularies":[]
+"vocabularies":[
+  {
+    "id": 1,
+    "name": "売れます",
+    "meaning": "賣得好、暢銷",
+    "sentence": "どうしてあのパン屋はよく売れるんですか",
+    "answer": "うれます",
+    "userAnswer": ""
+  },
+  {
+    "id": 2,
+    "name": "踊ります",
+    "meaning": "跳舞",
+    "sentence": "歌いながら踊ります",
+    "answer": "おどります",
+    "userAnswer": ""
+  },
+  {
+    "id": 3,
+    "name": "かみます",
+    "meaning": "嚼、咬",
+    "sentence": "眠い時、ガムをかみながら運転します",
+    "answer": "かみます",
+    "userAnswer": ""
+  },
+  {
+    "id": 4,
+    "name": "選びます",
+    "meaning": "選擇",
+    "sentence": "どうしてさくら大学を選んだんですか",
+    "answer": "えらびます",
+    "userAnswer": ""
+  },
+  {
+    "id": 5,
+    "name": "通います",
+    "meaning": "往返",
+    "sentence": "いつも何で学校に通っていますか",
+    "answer": "かよいます",
+    "userAnswer": ""
+  },
+  {
+    "id": 6,
+    "name": "メモします",
+    "meaning": "記筆記",
+    "sentence": "話を聞きながらメモしてください",
+    "answer": "メモします",
+    "userAnswer": ""
+  },
+  {
+    "id": 7,
+    "name": "まじめ",
+    "meaning": "認真",
+    "sentence": "ワット先生は熱心だし、まじめだし、経験もあります",
+    "answer": "まじめ",
+    "userAnswer": ""
+  },
+  {
+    "id": 8,
+    "name": "熱心",
+    "meaning": "熱心、熱忱",
+    "sentence": "あの先生はおもしろいし、熱心だし、学生に人気があります",
+    "answer": "ねっしん",
+    "userAnswer": ""
+  },
+  {
+    "id": 9,
+    "name": "偉い",
+    "meaning": "偉大、了不起",
+    "sentence": "あなたは偉いです",
+    "answer": "えらい",
+    "userAnswer": ""
+  },
+  {
+    "id": 10,
+    "name": "ちょうどいい",
+    "meaning": "正好",
+    "sentence": "デザインもすてきだし、サイズもちょうどいいし、靴を買います",
+    "answer": "ちょうどいい",
+    "userAnswer": ""
+  },
+  {
+    "id": 11,
+    "name": "景色",
+    "meaning": "景色",
+    "sentence": "北海道は涼しいし、景色もきれいだし、それに食べ物も美味しいです",
+    "answer": "けしき",
+    "userAnswer": ""
+  },
+  {
+    "id": 12,
+    "name": "美容院",
+    "meaning": "美容院",
+    "sentence": "あの美容院は上手だし、速いし、それに安いです",
+    "answer": "びよういん",
+    "userAnswer": ""
+  },
+  {
+    "id": 13,
+    "name": "台所",
+    "meaning": "廚房",
+    "sentence": "新しい台所はきれいだし、広いし、それに便利です",
+    "answer": "だいどころ",
+    "userAnswer": ""
+  },
+  {
+    "id": 14,
+    "name": "経験",
+    "meaning": "經驗",
+    "sentence": "鈴木さんはまじめだし、中国語も上手だし、それに経験もあります",
+    "answer": "けいけん",
+    "userAnswer": ""
+  },
+  {
+    "id": 15,
+    "name": "力",
+    "meaning": "力量、力氣",
+    "sentence": "木村さんは若いし、体も大きいし、それに力も強いです",
+    "answer": "ちから",
+    "userAnswer": ""
+  },
+  {
+    "id": 16,
+    "name": "人気",
+    "meaning": "受歡迎、有人緣",
+    "sentence": "どうしてあの歌手は人気があるんですか",
+    "answer": "にんき",
+    "userAnswer": ""
+  },
+  {
+    "id": 17,
+    "name": "形",
+    "meaning": "形狀",
+    "sentence": "この車は形もいいし、色もきれいだし、それに値段もそんなに高くないです",
+    "answer": "かたち",
+    "userAnswer": ""
+  },
+  {
+    "id": 18,
+    "name": "色",
+    "meaning": "顏色",
+    "sentence": "色もきれいだし、この靴を買います",
+    "answer": "いろ",
+    "userAnswer": ""
+  },
+  {
+    "id": 19,
+    "name": "味",
+    "meaning": "味道",
+    "sentence": "この店は値段も安いし、味もいいし、いつもここで食べています",
+    "answer": "あじ",
+    "userAnswer": ""
+  },
+  {
+    "id": 20,
+    "name": "ガム",
+    "meaning": "口香糖",
+    "sentence": "ガムをかみながら先生の話を聞いてはいけません",
+    "answer": "ガム",
+    "userAnswer": ""
+  },
+  {
+    "id": 21,
+    "name": "品物",
+    "meaning": "物品、商品",
+    "sentence": "この店は安いし、品物も多いし、いつもここで買い物しています",
+    "answer": "しなもの",
+    "userAnswer": ""
+  },
+  {
+    "id": 22,
+    "name": "値段",
+    "meaning": "價錢、價位",
+    "sentence": "その値段は高いですか",
+    "answer": "ねだん",
+    "userAnswer": ""
+  },
+  {
+    "id": 23,
+    "name": "給料",
+    "meaning": "薪水、工資",
+    "sentence": "給料はどれくらいか",
+    "answer": "きゅうりょう",
+    "userAnswer": ""
+  },
+  {
+    "id": 24,
+    "name": "ボーナス",
+    "meaning": "獎金",
+    "sentence": "ボーナスは何に使いますか",
+    "answer": "ボーナス",
+    "userAnswer": ""
+  },
+  {
+    "id": 25,
+    "name": "ゲーム",
+    "meaning": "遊戲",
+    "sentence": "ゲームをすることが好きです",
+    "answer": "ゲーム",
+    "userAnswer": ""
+  },
+  {
+    "id": 26,
+    "name": "番組",
+    "meaning": "節目",
+    "sentence": "いつもどんな番組を見ていますか",
+    "answer": "ばんぐみ",
+    "userAnswer": ""
+  },
+  {
+    "id": 27,
+    "name": "ドラマ",
+    "meaning": "電視劇",
+    "sentence": "今古いドラマを見ています",
+    "answer": "ドラマ",
+    "userAnswer": ""
+  },
+  {
+    "id": 28,
+    "name": "歌手",
+    "meaning": "歌手",
+    "sentence": "歌手になりたいです",
+    "answer": "かしゅ",
+    "userAnswer": ""
+  },
+  {
+    "id": 29,
+    "name": "小説",
+    "meaning": "小說",
+    "sentence": "いつ、この小説を書きましたか",
+    "answer": "しょうせつ",
+    "userAnswer": ""
+  },
+  {
+    "id": 30,
+    "name": "小説家",
+    "meaning": "小說家",
+    "sentence": "いつか小説家になりたいです",
+    "answer": "しょうせつか",
+    "userAnswer": ""
+  },
+  {
+    "id": 31,
+    "name": "家",
+    "meaning": "家",
+    "sentence": "わたしの夢は漫画家になることです",
+    "answer": "か",
+    "userAnswer": ""
+  },
+  {
+    "id": 32,
+    "name": "機",
+    "meaning": "機",
+    "sentence": "この掃除機は小さいし、軽いし、それに音も静かです",
+    "answer": "き",
+    "userAnswer": ""
+  },
+  {
+    "id": 33,
+    "name": "息子",
+    "meaning": "(自己的)兒子",
+    "sentence": "息子に英語を教えていただけませんか",
+    "answer": "むすこ",
+    "userAnswer": ""
+  },
+  {
+    "id": 34,
+    "name": "息子さん",
+    "meaning": "(別人的)兒子",
+    "sentence": "息子さんはお元気ですか",
+    "answer": "むすこさん",
+    "userAnswer": ""
+  },
+  {
+    "id": 35,
+    "name": "娘",
+    "meaning": "(自己的)女兒",
+    "sentence": "休みの日は絵をかいたり、娘と買い物に行ったりしています",
+    "answer": "むすめ",
+    "userAnswer": ""
+  },
+  {
+    "id": 36,
+    "name": "娘さん",
+    "meaning": "(別人的)女兒",
+    "sentence": "娘さんはいつも一人で宿題をしますか",
+    "answer": "むすめさん",
+    "userAnswer": ""
+  },
+  {
+    "id": 37,
+    "name": "自分",
+    "meaning": "自己",
+    "sentence": "自分の家が欲しいです",
+    "answer": "じぶん",
+    "userAnswer": ""
+  },
+  {
+    "id": 38,
+    "name": "将来",
+    "meaning": "將來",
+    "sentence": "将来の夢はなんですか",
+    "answer": "しょうらい",
+    "userAnswer": ""
+  },
+  {
+    "id": 39,
+    "name": "しばらく",
+    "meaning": "不久、暫且、一陣子",
+    "sentence": "わたしは車を止めて、しばらく寝ます",
+    "answer": "しばらく",
+    "userAnswer": ""
+  },
+  {
+    "id": 40,
+    "name": "たいてい",
+    "meaning": "大部分、通常",
+    "sentence": "たいてい朝6時に起きます",
+    "answer": "たいてい",
+    "userAnswer": ""
+  },
+  {
+    "id": 41,
+    "name": "それに",
+    "meaning": "而且",
+    "sentence": "さくら大学は父が出た大学だし、いい先生も多いし、それに家から近いです",
+    "answer": "それに",
+    "userAnswer": ""
+  },
+  {
+    "id": 42,
+    "name": "それで",
+    "meaning": "因此、所以",
+    "sentence": "このレストランは値段も安いし、おいしいんです。それで人が多いんですね",
+    "answer": "それで",
+    "userAnswer": ""
+  },
+  {
+    "id": 43,
+    "name": "お願いがあるんですが",
+    "meaning": "我有件事想麻煩妳一下",
+    "sentence": "ちょっとお願いがあるんですが",
+    "answer": "おねがいがあるんですが",
+    "userAnswer": ""
+  },
+  {
+    "id": 44,
+    "name": "実は",
+    "meaning": "其實、實際上",
+    "sentence": "実はきのうからダイエットをしています",
+    "answer": "じつは",
+    "userAnswer": ""
+  },
+  {
+    "id": 45,
+    "name": "会話",
+    "meaning": "會話",
+    "sentence": "夏休みにオーストラリアへホームステイに行くんですが、会話ができないです",
+    "answer": "かいわ",
+    "userAnswer": ""
+  },
+  {
+    "id": 46,
+    "name": "うーん",
+    "meaning": "嗯",
+    "sentence": "うーん",
+    "answer": "うーん",
+    "userAnswer": ""
+  },
+  {
+    "id": 47,
+    "name": "お知らせ",
+    "meaning": "通知",
+    "sentence": "お知らせが来ました",
+    "answer": "おしらせ",
+    "userAnswer": ""
+  },
+  {
+    "id": 48,
+    "name": "参加します",
+    "meaning": "參加",
+    "sentence": "わたしは明日イベントに参加します",
+    "answer": "さんかします",
+    "userAnswer": ""
+  },
+  {
+    "id": 49,
+    "name": "日にち",
+    "meaning": "日期",
+    "sentence": "今日の日にちは何ですか",
+    "answer": "ひにち",
+    "userAnswer": ""
+  },
+  {
+    "id": 50,
+    "name": "土",
+    "meaning": "星期六",
+    "sentence": "土曜日は週末です",
+    "answer": "ど",
+    "userAnswer": ""
+  },
+  {
+    "id": 51,
+    "name": "体育館",
+    "meaning": "體育館",
+    "sentence": "体育館で運動しよう",
+    "answer": "たいいくかん",
+    "userAnswer": ""
+  },
+  {
+    "id": 52,
+    "name": "無料",
+    "meaning": "免費",
+    "sentence": "このアプリは無料です",
+    "answer": "むりょう",
+    "userAnswer": ""
+  },
+  {
+    "id": 53,
+    "name": "誘います",
+    "meaning": "邀請",
+    "sentence": "彼はわたしをイベントに誘います",
+    "answer": "さそいます",
+    "userAnswer": ""
+  },
+  {
+    "id": 54,
+    "name": "イベント",
+    "meaning": "活動",
+    "sentence": "今晩、重要なイベントがあります",
+    "answer": "イベント",
+    "userAnswer": ""
+  }
+]
 },
 {
 "id":29,
