@@ -1586,7 +1586,384 @@
 {
 "id":30,
 "title":"非常袋を準備しておかないと",
-"vocabularies":[]
+"vocabularies":[
+  {
+    "id": 1,
+    "name": "はります",
+    "meaning": "貼",
+    "sentence": "交番に町の地図がはってあります",
+    "answer": "はります",
+    "userAnswer": ""
+  },
+  {
+    "id": 2,
+    "name": "掛けます",
+    "meaning": "掛",
+    "sentence": "壁に絵が掛けてあります",
+    "answer": "かけます",
+    "userAnswer": ""
+  },
+  {
+    "id": 3,
+    "name": "飾ります",
+    "meaning": "裝飾",
+    "sentence": "きれいな花がテーブルに飾ってあります",
+    "answer": "かざります",
+    "userAnswer": ""
+  },
+  {
+    "id": 4,
+    "name": "並べます",
+    "meaning": "排列",
+    "sentence": "テーブルにお皿が並べてあります",
+    "answer": "ならべます",
+    "userAnswer": ""
+  },
+  {
+    "id": 5,
+    "name": "植えます",
+    "meaning": "種植",
+    "sentence": "ここに野菜を植えてはいけません",
+    "answer": "うえます",
+    "userAnswer": ""
+  },
+  {
+    "id": 6,
+    "name": "戻します",
+    "meaning": "歸還、還原",
+    "sentence": "はさみを使ったら、元の所に戻しておいてください",
+    "answer": "もどします",
+    "userAnswer": ""
+  },
+  {
+    "id": 7,
+    "name": "まとめます",
+    "meaning": "收拾、完成",
+    "sentence": "月曜日までに、レポートをまとめておいてください",
+    "answer": "まとめます",
+    "userAnswer": ""
+  },
+  {
+    "id": 8,
+    "name": "しまいます",
+    "meaning": "整理、收拾",
+    "sentence": "野菜を冷蔵庫にしまいましょうか",
+    "answer": "しまいます",
+    "userAnswer": ""
+  },
+  {
+    "id": 9,
+    "name": "決めます",
+    "meaning": "決定",
+    "sentence": "お子さんの名前はもう決めてありますか",
+    "answer": "きめます",
+    "userAnswer": ""
+  },
+  {
+    "id": 10,
+    "name": "予習します",
+    "meaning": "預習",
+    "sentence": "授業のまえに、予習しておきます",
+    "answer": "よしゅうします",
+    "userAnswer": ""
+  },
+  {
+    "id": 11,
+    "name": "復習します",
+    "meaning": "複習",
+    "sentence": "試験のまえに、復習しておきます",
+    "answer": "ふくしゅうします",
+    "userAnswer": ""
+  },
+  {
+    "id": 12,
+    "name": "そのままにします",
+    "meaning": "保持原狀",
+    "sentence": "あした会議がありますから、いすはそのままにしておいてください",
+    "answer": "そのままにします",
+    "userAnswer": ""
+  },
+  {
+    "id": 13,
+    "name": "授業",
+    "meaning": "課、課程",
+    "sentence": "彼は授業が終わった後すぐ家に帰っていった",
+    "answer": "じゅぎょう",
+    "userAnswer": ""
+  },
+  {
+    "id": 14,
+    "name": "講義",
+    "meaning": "授課、上課",
+    "sentence": "来週の講義までにこの本を全部読んでおいてください",
+    "answer": "こうぎ",
+    "userAnswer": ""
+  },
+  {
+    "id": 15,
+    "name": "ミーティング",
+    "meaning": "會議",
+    "sentence": "来週のミーティングまでに何をしておいたらいいですか",
+    "answer": "ミーティング",
+    "userAnswer": ""
+  },
+  {
+    "id": 16,
+    "name": "予定",
+    "meaning": "預定、計劃",
+    "sentence": "旅行の予定はもう連絡してあります",
+    "answer": "よてい",
+    "userAnswer": ""
+  },
+  {
+    "id": 17,
+    "name": "お知らせ",
+    "meaning": "通知",
+    "sentence": "これは学校からのお知らせです",
+    "answer": "おしらせ",
+    "userAnswer": ""
+  },
+  {
+    "id": 18,
+    "name": "ガイドブック",
+    "meaning": "指南",
+    "sentence": "旅行の前に、ガイドブックを読んでおきます",
+    "answer": "ガイドブック",
+    "userAnswer": ""
+  },
+  {
+    "id": 19,
+    "name": "カレンダー",
+    "meaning": "年曆、月曆、日曆",
+    "sentence": "カレンダーに今月の予定が書いてあります",
+    "answer": "カレンダー",
+    "userAnswer": ""
+  },
+  {
+    "id": 20,
+    "name": "ポスター",
+    "meaning": "海報",
+    "sentence": "壁にポスターが1枚はってあります",
+    "answer": "ポスター",
+    "userAnswer": ""
+  },
+  {
+    "id": 21,
+    "name": "予定表",
+    "meaning": "計畫表、日程表",
+    "sentence": "ニューヨーク出張の予定表と資料ができました",
+    "answer": "よていひょう",
+    "userAnswer": ""
+  },
+  {
+    "id": 22,
+    "name": "ごみ箱",
+    "meaning": "垃圾桶",
+    "sentence": "ごみ箱の物以外は捨てないでください",
+    "answer": "ごみばこ",
+    "userAnswer": ""
+  },
+  {
+    "id": 23,
+    "name": "人形",
+    "meaning": "人偶",
+    "sentence": "棚に人形が飾ってあります",
+    "answer": "にんぎょう",
+    "userAnswer": ""
+  },
+  {
+    "id": 24,
+    "name": "花瓶",
+    "meaning": "花瓶",
+    "sentence": "テーブルの上に、花瓶が置いてあります",
+    "answer": "かびん",
+    "userAnswer": ""
+  },
+  {
+    "id": 25,
+    "name": "鏡",
+    "meaning": "鏡子",
+    "sentence": "壁に鏡が掛けてあります",
+    "answer": "かがみ",
+    "userAnswer": ""
+  },
+  {
+    "id": 26,
+    "name": "引き出し",
+    "meaning": "抽屜",
+    "sentence": "はさみは引き出しに入れてあります",
+    "answer": "ひきだし",
+    "userAnswer": ""
+  },
+  {
+    "id": 27,
+    "name": "玄関",
+    "meaning": "玄關",
+    "sentence": "家の玄関のドアを閉めなさい",
+    "answer": "げんかん",
+    "userAnswer": ""
+  },
+  {
+    "id": 28,
+    "name": "廊下",
+    "meaning": "走廊",
+    "sentence": "玄関と廊下は掃除しましたか",
+    "answer": "ろうか",
+    "userAnswer": ""
+  },
+  {
+    "id": 29,
+    "name": "壁",
+    "meaning": "牆壁",
+    "sentence": "壁に花や動物の絵がかいてあるんです",
+    "answer": "かべ",
+    "userAnswer": ""
+  },
+  {
+    "id": 30,
+    "name": "池",
+    "meaning": "池塘、水池",
+    "sentence": "池に魚をたくさん飼っています",
+    "answer": "いけ",
+    "userAnswer": ""
+  },
+  {
+    "id": 31,
+    "name": "元の所",
+    "meaning": "原處",
+    "sentence": "使ったら、元の所に道具を戻しておきます",
+    "answer": "もとのところ",
+    "userAnswer": ""
+  },
+  {
+    "id": 32,
+    "name": "周り",
+    "meaning": "周圍",
+    "sentence": "わたしの周りには日本語が話せる人がいます",
+    "answer": "まわり",
+    "userAnswer": ""
+  },
+  {
+    "id": 33,
+    "name": "真ん中",
+    "meaning": "中間",
+    "sentence": "絵は壁の真ん中に掛けてあります",
+    "answer": "まんなか",
+    "userAnswer": ""
+  },
+  {
+    "id": 34,
+    "name": "隅",
+    "meaning": "角落",
+    "sentence": "ごみ箱は部屋の隅に置いてあります",
+    "answer": "すみ",
+    "userAnswer": ""
+  },
+  {
+    "id": 35,
+    "name": "まだ",
+    "meaning": "還、未",
+    "sentence": "まだ雨が降っています",
+    "answer": "まだ",
+    "userAnswer": ""
+  },
+  {
+    "id": 36,
+    "name": "リュック",
+    "meaning": "帆布背包",
+    "sentence": "そのリュックをとても気に入りました",
+    "answer": "リュック",
+    "userAnswer": ""
+  },
+  {
+    "id": 37,
+    "name": "非常袋",
+    "meaning": "緊急避難包",
+    "sentence": "非常袋はスーパーで売っています",
+    "answer": "ひじょうぶくろ",
+    "userAnswer": ""
+  },
+  {
+    "id": 38,
+    "name": "非常時",
+    "meaning": "緊急情況",
+    "sentence": "非常袋は非常時に使う物を入れておく袋です",
+    "answer": "ひじょうじ",
+    "userAnswer": ""
+  },
+  {
+    "id": 39,
+    "name": "生活します",
+    "meaning": "生活",
+    "sentence": "わたしは今は日本で生活しています",
+    "answer": "せいかつします",
+    "userAnswer": ""
+  },
+  {
+    "id": 40,
+    "name": "懐中電灯",
+    "meaning": "手電筒",
+    "sentence": "この懐中電灯は2個の電池が必要です",
+    "answer": "かいちゅうでんとう",
+    "userAnswer": ""
+  },
+  {
+    "id": 41,
+    "name": "丸い",
+    "meaning": "圓的",
+    "sentence": "この円形のテーブルはとても丸いです",
+    "answer": "まるい",
+    "userAnswer": ""
+  },
+  {
+    "id": 42,
+    "name": "ある",
+    "meaning": "某、某個",
+    "sentence": "棚にはある本を探しています",
+    "answer": "ある",
+    "userAnswer": ""
+  },
+  {
+    "id": 43,
+    "name": "夢を見ます",
+    "meaning": "做夢",
+    "sentence": "毎晚わたしは美しい夢を見ます",
+    "answer": "ゆめをみます",
+    "userAnswer": ""
+  },
+  {
+    "id": 44,
+    "name": "うれしい",
+    "meaning": "高興",
+    "sentence": "友達の成功を聞いて、わたしはとてもうれしいです",
+    "answer": "うれしい",
+    "userAnswer": ""
+  },
+  {
+    "id": 45,
+    "name": "嫌",
+    "meaning": "討厭、不喜歡",
+    "sentence": "その食べ物が嫌いです",
+    "answer": "いや",
+    "userAnswer": ""
+  },
+  {
+    "id": 46,
+    "name": "すると",
+    "meaning": "於是",
+    "sentence": "彼はお金を見つけた。すると、とても喜んだ",
+    "answer": "すると",
+    "userAnswer": ""
+  },
+  {
+    "id": 47,
+    "name": "目が覚めます",
+    "meaning": "醒來",
+    "sentence": "朝、目が覚めると美しい景色が広がっていました",
+    "answer": "めがさめます",
+    "userAnswer": ""
+  }
+]
 },
 {
 "id":31,
@@ -1636,7 +2013,7 @@
       "id": 1,
       "name": "答えます",
       "meaning": "回答",
-      "sentence": "この問題は私には答えられない",
+      "sentence": "この問題はわたしには答えられない",
       "answer": "こたえます",
       "userAnswer": ""
     },
