@@ -1164,7 +1164,424 @@
 {
 "id":29,
 "title":"忘れ物をしてしまったんです",
-"vocabularies":[]
+"vocabularies":[
+  {
+    "id": 1,
+    "name": "開きます",
+    "meaning": "開著(ex:開門)",
+    "sentence": "ボタンを押せば、窓が開きます",
+    "answer": "あきます",
+    "userAnswer": ""
+  },
+  {
+    "id": 2,
+    "name": "閉まります",
+    "meaning": "關著(ex:關門)",
+    "sentence": "スーパーが閉まっていますから、コンビニで買いましょう",
+    "answer": "しまります",
+    "userAnswer": ""
+  },
+  {
+    "id": 3,
+    "name": "つきます",
+    "meaning": "開著(ex:開燈)",
+    "sentence": "エアコンがついていませんでしたから、暑かったです",
+    "answer": "つきます",
+    "userAnswer": ""
+  },
+  {
+    "id": 4,
+    "name": "消えます",
+    "meaning": "關著(ex:關燈)",
+    "sentence": "会議室の電気が消えていますから、会議はもう終わったと思います",
+    "answer": "きえます",
+    "userAnswer": ""
+  },
+  {
+    "id": 5,
+    "name": "壊れます",
+    "meaning": "壞了",
+    "sentence": "この自動販売機は壊れています",
+    "answer": "こわれます",
+    "userAnswer": ""
+  },
+  {
+    "id": 6,
+    "name": "割れます",
+    "meaning": "碎了",
+    "sentence": "ガラスが割れています",
+    "answer": "われます",
+    "userAnswer": ""
+  },
+  {
+    "id": 7,
+    "name": "折れます",
+    "meaning": "折斷了",
+    "sentence": "この鉛筆が折れてしまった",
+    "answer": "おれます",
+    "userAnswer": ""
+  },
+  {
+    "id": 8,
+    "name": "破れます",
+    "meaning": "破了",
+    "sentence": "この袋は破れていますから、捨てましょう",
+    "answer": "やぶれます",
+    "userAnswer": ""
+  },
+  {
+    "id": 9,
+    "name": "汚れます",
+    "meaning": "髒了",
+    "sentence": "そのコップは汚れています",
+    "answer": "よごれます",
+    "userAnswer": ""
+  },
+  {
+    "id": 10,
+    "name": "付きます",
+    "meaning": "附有",
+    "sentence": "外側に大きいポケットが付いています",
+    "answer": "つきます",
+    "userAnswer": ""
+  },
+  {
+    "id": 11,
+    "name": "外れます",
+    "meaning": "掉了",
+    "sentence": "服のボタンが外れています",
+    "answer": "はずれます",
+    "userAnswer": ""
+  },
+  {
+    "id": 12,
+    "name": "止まります",
+    "meaning": "停了、停著",
+    "sentence": "うちの前に車が止まっています",
+    "answer": "とまります",
+    "userAnswer": ""
+  },
+  {
+    "id": 13,
+    "name": "まちがえます",
+    "meaning": "弄錯",
+    "sentence": "電話番号をまちがえてしまいました",
+    "answer": "まちがえます",
+    "userAnswer": ""
+  },
+  {
+    "id": 14,
+    "name": "落とします",
+    "meaning": "落下、弄丟",
+    "sentence": "どこかで財布を落としてしまったんです",
+    "answer": "おとします",
+    "userAnswer": ""
+  },
+  {
+    "id": 15,
+    "name": "掛かります",
+    "meaning": "上著(ex:鎖)",
+    "sentence": "かぎが掛かっていますから、入れません",
+    "answer": "かかります",
+    "userAnswer": ""
+  },
+  {
+    "id": 16,
+    "name": "ふきます",
+    "meaning": "擦",
+    "sentence": "テーブルが汚れていますから、拭いてください",
+    "answer": "ふきます",
+    "userAnswer": ""
+  },
+  {
+    "id": 17,
+    "name": "取り替えます",
+    "meaning": "更換",
+    "sentence": "時計が止まっていますから、電池を取り替えてください",
+    "answer": "とりかえます",
+    "userAnswer": ""
+  },
+  {
+    "id": 18,
+    "name": "片づけます",
+    "meaning": "收拾",
+    "sentence": "引っ越しの荷物は片づきましたか",
+    "answer": "かたづけます",
+    "userAnswer": ""
+  },
+  {
+    "id": 19,
+    "name": "皿",
+    "meaning": "盤子、碟子",
+    "sentence": "お皿が割れています",
+    "answer": "さら",
+    "userAnswer": ""
+  },
+  {
+    "id": 20,
+    "name": "ちゃわん",
+    "meaning": "碗",
+    "sentence": "彼はおちゃわんを割ってしまった",
+    "answer": "ちゃわん",
+    "userAnswer": ""
+  },
+  {
+    "id": 21,
+    "name": "コップ",
+    "meaning": "杯子",
+    "sentence": "そのコップは汚れていますよ。きれいなコップはあちらです",
+    "answer": "コップ",
+    "userAnswer": ""
+  },
+  {
+    "id": 22,
+    "name": "ガラス",
+    "meaning": "玻璃",
+    "sentence": "窓のガラスが割れています",
+    "answer": "ガラス",
+    "userAnswer": ""
+  },
+  {
+    "id": 23,
+    "name": "袋",
+    "meaning": "袋子",
+    "sentence": "買い物から帰る時、袋が破れてしまいました",
+    "answer": "ふくろ",
+    "userAnswer": ""
+  },
+  {
+    "id": 24,
+    "name": "書類",
+    "meaning": "文件、資料",
+    "sentence": "電車に書類を忘れてしまったんです",
+    "answer": "しょるい",
+    "userAnswer": ""
+  },
+  {
+    "id": 25,
+    "name": "枝",
+    "meaning": "樹枝",
+    "sentence": "木の枝が折れています",
+    "answer": "えだ",
+    "userAnswer": ""
+  },
+  {
+    "id": 26,
+    "name": "駅員",
+    "meaning": "站務員",
+    "sentence": "駅員さんに聞いてきます",
+    "answer": "えきいん",
+    "userAnswer": ""
+  },
+  {
+    "id": 27,
+    "name": "交番",
+    "meaning": "派出所",
+    "sentence": "交番が近くにあります",
+    "answer": "こうばん",
+    "userAnswer": ""
+  },
+  {
+    "id": 28,
+    "name": "スピーチ",
+    "meaning": "演講",
+    "sentence": "スピーチはもう覚えました",
+    "answer": "スピーチ",
+    "userAnswer": ""
+  },
+  {
+    "id": 29,
+    "name": "返事",
+    "meaning": "回應",
+    "sentence": "すみませんが、返事をください",
+    "answer": "へんじ",
+    "userAnswer": ""
+  },
+  {
+    "id": 30,
+    "name": "お先にどうぞ",
+    "meaning": "您先請",
+    "sentence": "この資料を作ってしまいますから、お先にどうぞ",
+    "answer": "おさきにどうぞ",
+    "userAnswer": ""
+  },
+  {
+    "id": 31,
+    "name": "源氏物語",
+    "meaning": "源氏物語",
+    "sentence": "源氏物語は古典文学の名作です",
+    "answer": "げんじものがたり",
+    "userAnswer": ""
+  },
+  {
+    "id": 32,
+    "name": "今の電車",
+    "meaning": "剛才的火車",
+    "sentence": "今の電車に忘れ物をしてしまったんです",
+    "answer": "いまのでんしゃ",
+    "userAnswer": ""
+  },
+  {
+    "id": 33,
+    "name": "忘れ物",
+    "meaning": "遺失物品",
+    "sentence": "忘れ物を取りに家に帰りました",
+    "answer": "わすれもの",
+    "userAnswer": ""
+  },
+  {
+    "id": 34,
+    "name": "このくらい",
+    "meaning": "這樣大小的",
+    "sentence": "黒くて、このくらいのパソコンです",
+    "answer": "このくらい",
+    "userAnswer": ""
+  },
+  {
+    "id": 35,
+    "name": "側",
+    "meaning": "側",
+    "sentence": "アメリカ人は道の右側を運転します",
+    "answer": "がわ",
+    "userAnswer": ""
+  },
+  {
+    "id": 36,
+    "name": "ポケット",
+    "meaning": "口袋",
+    "sentence": "このコートはポケットが付いていませんから、不便です",
+    "answer": "ポケット",
+    "userAnswer": ""
+  },
+  {
+    "id": 37,
+    "name": "辺",
+    "meaning": "邊",
+    "sentence": "この辺で手帳を落としてしまったんです",
+    "answer": "へん",
+    "userAnswer": ""
+  },
+  {
+    "id": 38,
+    "name": "覚えていません",
+    "meaning": "不記得了",
+    "sentence": "あまり覚えていません",
+    "answer": "おぼえていません",
+    "userAnswer": ""
+  },
+  {
+    "id": 39,
+    "name": "網棚",
+    "meaning": "行李網架",
+    "sentence": "カバンを電車の網棚に置きました",
+    "answer": "あみだな",
+    "userAnswer": ""
+  },
+  {
+    "id": 40,
+    "name": "確か",
+    "meaning": "似乎是、大概是",
+    "sentence": "確か本と傘が入っています",
+    "answer": "たしか",
+    "userAnswer": ""
+  },
+  {
+    "id": 41,
+    "name": "よかった",
+    "meaning": "太好了",
+    "sentence": "あなたが元気でよかった",
+    "answer": "よかった",
+    "userAnswer": ""
+  },
+  {
+    "id": 42,
+    "name": "新宿",
+    "meaning": "新宿",
+    "sentence": "新宿には多彩なレストランやショップがたくさんあります",
+    "answer": "しんじゅく",
+    "userAnswer": ""
+  },
+  {
+    "id": 43,
+    "name": "地震",
+    "meaning": "地震",
+    "sentence": "地震がありました",
+    "answer": "じしん",
+    "userAnswer": ""
+  },
+  {
+    "id": 44,
+    "name": "壁",
+    "meaning": "牆壁",
+    "sentence": "壁が白いです",
+    "answer": "かべ",
+    "userAnswer": ""
+  },
+  {
+    "id": 45,
+    "name": "針",
+    "meaning": "指針",
+    "sentence": "時計の針が回ります",
+    "answer": "はり",
+    "userAnswer": ""
+  },
+  {
+    "id": 46,
+    "name": "指します",
+    "meaning": "指",
+    "sentence": "彼女は地図で目的地を指します",
+    "answer": "さします",
+    "userAnswer": ""
+  },
+  {
+    "id": 47,
+    "name": "駅前",
+    "meaning": "車站前",
+    "sentence": "駅前に友達と待ち合わせました",
+    "answer": "えきまえ",
+    "userAnswer": ""
+  },
+  {
+    "id": 48,
+    "name": "倒れます",
+    "meaning": "倒、倒下來",
+    "sentence": "木が風で倒れました",
+    "answer": "たおれます",
+    "userAnswer": ""
+  },
+  {
+    "id": 49,
+    "name": "西",
+    "meaning": "西",
+    "sentence": "夕日は西に沈みます",
+    "answer": "にし",
+    "userAnswer": ""
+  },
+  {
+    "id": 50,
+    "name": "の方",
+    "meaning": "方面、方",
+    "sentence": "この道の方が近いです",
+    "answer": "のほう",
+    "userAnswer": ""
+  },
+  {
+    "id": 51,
+    "name": "燃えます",
+    "meaning": "燃燒",
+    "sentence": "火が森を燃やしています",
+    "answer": "もえます",
+    "userAnswer": ""
+  },
+  {
+    "id": 52,
+    "name": "レポーター",
+    "meaning": "採訪記者",
+    "sentence": "レポーターが現場から報告しています",
+    "answer": "れぽーたー",
+    "userAnswer": ""
+  }
+]
 },
 {
 "id":30,
