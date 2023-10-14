@@ -1968,7 +1968,296 @@
 {
 "id":31,
 "title":"料理を習おうと思っています",
-"vocabularies":[]
+"vocabularies":[
+  {
+    "id": 1,
+    "name": "続けます",
+    "meaning": "繼續",
+    "sentence": "国へ帰っても、日本語の勉強を続けますか",
+    "answer": "つづけます",
+    "userAnswer": ""
+  },
+  {
+    "id": 2,
+    "name": "見つけます",
+    "meaning": "找、尋找",
+    "sentence": "外国で仕事を見つけようと思っています",
+    "answer": "みつけます",
+    "userAnswer": ""
+  },
+  {
+    "id": 3,
+    "name": "取ります",
+    "meaning": "取得",
+    "sentence": "2週間休みを取りました",
+    "answer": "とります",
+    "userAnswer": ""
+  },
+  {
+    "id": 4,
+    "name": "受けます",
+    "meaning": "參加",
+    "sentence": "日本語に試験を受けますか",
+    "answer": "うけます",
+    "userAnswer": ""
+  },
+  {
+    "id": 5,
+    "name": "申し込みます",
+    "meaning": "申請",
+    "sentence": "北海道旅行はもう申し込みましたか",
+    "answer": "もうしこみます",
+    "userAnswer": ""
+  },
+  {
+    "id": 6,
+    "name": "休憩します",
+    "meaning": "休息",
+    "sentence": "疲れたから、ちょっと休憩します",
+    "answer": "きゅうけいします",
+    "userAnswer": ""
+  },
+  {
+    "id": 7,
+    "name": "連休",
+    "meaning": "連假",
+    "sentence": "連休は何をしますか",
+    "answer": "れんきゅう",
+    "userAnswer": ""
+  },
+  {
+    "id": 8,
+    "name": "作文",
+    "meaning": "作文、寫作",
+    "sentence": "作文はもう書きましたか",
+    "answer": "さくぶん",
+    "userAnswer": ""
+  },
+  {
+    "id": 9,
+    "name": "発表",
+    "meaning": "發表、公布",
+    "sentence": "彼は雑誌に作品を発表した",
+    "answer": "はっぴょう",
+    "userAnswer": ""
+  },
+  {
+    "id": 10,
+    "name": "展覧会",
+    "meaning": "展覽會",
+    "sentence": "ピカソの展覧会はもう見に行きましたか",
+    "answer": "てんらんかい",
+    "userAnswer": ""
+  },
+  {
+    "id": 11,
+    "name": "結婚式",
+    "meaning": "結婚典禮",
+    "sentence": "結婚式にお客さんは何人来ますか",
+    "answer": "けっこんしき",
+    "userAnswer": ""
+  },
+  {
+    "id": 12,
+    "name": "葬式",
+    "meaning": "葬禮",
+    "sentence": "お葬式はどこでしますか",
+    "answer": "そうしき",
+    "userAnswer": ""
+  },
+  {
+    "id": 13,
+    "name": "式",
+    "meaning": "典禮、儀式",
+    "sentence": "息子の小学校の卒業式に出席します",
+    "answer": "しき",
+    "userAnswer": ""
+  },
+  {
+    "id": 14,
+    "name": "本社",
+    "meaning": "總公司、本公司",
+    "sentence": "本社から資料が届きました",
+    "answer": "ほんしゃ",
+    "userAnswer": ""
+  },
+  {
+    "id": 15,
+    "name": "支店",
+    "meaning": "分公司、分店",
+    "sentence": "部長は支店へ行く予定です",
+    "answer": "してん",
+    "userAnswer": ""
+  },
+  {
+    "id": 16,
+    "name": "教会",
+    "meaning": "教會",
+    "sentence": "家族と教会へ行こうと思っています",
+    "answer": "きょうかい",
+    "userAnswer": ""
+  },
+  {
+    "id": 17,
+    "name": "大学院",
+    "meaning": "研究所",
+    "sentence": "大学院の試験を受けますから、ことしは帰らないつもりです",
+    "answer": "だいがくいん",
+    "userAnswer": ""
+  },
+  {
+    "id": 18,
+    "name": "動物園",
+    "meaning": "動物園",
+    "sentence": "明日は休みだから、動物園へ行きます",
+    "answer": "どうぶつえん",
+    "userAnswer": ""
+  },
+  {
+    "id": 19,
+    "name": "温泉",
+    "meaning": "溫泉",
+    "sentence": "家族と教会へ行こうと思っています",
+    "answer": "おんせん",
+    "userAnswer": ""
+  },
+  {
+    "id": 20,
+    "name": "帰り",
+    "meaning": "回來",
+    "sentence": "お正月は国へ帰りますか",
+    "answer": "かえり",
+    "userAnswer": ""
+  },
+  {
+    "id": 21,
+    "name": "お子さん",
+    "meaning": "(別人的)孩子",
+    "sentence": "お子さんはいつ生まれますか",
+    "answer": "おこさん",
+    "userAnswer": ""
+  },
+  {
+    "id": 22,
+    "name": "号",
+    "meaning": "號",
+    "sentence": "わたしは12号室に泊まっています",
+    "answer": "ごう",
+    "userAnswer": ""
+  },
+  {
+    "id": 23,
+    "name": "の方",
+    "meaning": "方面、方",
+    "sentence": "よく見えないから、前の方に座ろう",
+    "answer": "のほう",
+    "userAnswer": ""
+  },
+  {
+    "id": 24,
+    "name": "ずっと",
+    "meaning": "一直",
+    "sentence": "わたしはずっと日本に住むつもりです",
+    "answer": "ずっと",
+    "userAnswer": ""
+  },
+  {
+    "id": 25,
+    "name": "残ります",
+    "meaning": "留下、剩下",
+    "sentence": "妻と子供は東京に残るんです",
+    "answer": "のこります",
+    "userAnswer": ""
+  },
+  {
+    "id": 26,
+    "name": "入学試験",
+    "meaning": "入學考試",
+    "sentence": "さくら大学の入学試験を受けますか",
+    "answer": "にゅうがくしけん",
+    "userAnswer": ""
+  },
+  {
+    "id": 27,
+    "name": "月に",
+    "meaning": "每個月、每月",
+    "sentence": "月に2、3回週末に帰るつもりです",
+    "answer": "つきに",
+    "userAnswer": ""
+  },
+  {
+    "id": 28,
+    "name": "村",
+    "meaning": "村、村莊",
+    "sentence": "村には美しい自然が広がっています",
+    "answer": "むら",
+    "userAnswer": ""
+  },
+  {
+    "id": 29,
+    "name": "卒業します",
+    "meaning": "畢業",
+    "sentence": "卒業式が楽しみですね",
+    "answer": "そつぎょうします",
+    "userAnswer": ""
+  },
+  {
+    "id": 30,
+    "name": "映画館",
+    "meaning": "電影院",
+    "sentence": "週末、友達と映画館に行きます",
+    "answer": "えいがかん",
+    "userAnswer": ""
+  },
+  {
+    "id": 31,
+    "name": "嫌",
+    "meaning": "討厭、不喜歡",
+    "sentence": "彼は野菜が嫌いです",
+    "answer": "きらい",
+    "userAnswer": ""
+  },
+  {
+    "id": 32,
+    "name": "空",
+    "meaning": "天空",
+    "sentence": "今日の空は青空です",
+    "answer": "そら",
+    "userAnswer": ""
+  },
+  {
+    "id": 33,
+    "name": "閉じます",
+    "meaning": "閉上、關上",
+    "sentence": "ドアを閉じてください",
+    "answer": "とじます",
+    "userAnswer": ""
+  },
+  {
+    "id": 34,
+    "name": "都会",
+    "meaning": "都會、都市",
+    "sentence": "都会の生活は忙しいですね",
+    "answer": "とかい",
+    "userAnswer": ""
+  },
+  {
+    "id": 35,
+    "name": "子どもたち",
+    "meaning": "孩子們",
+    "sentence": "公園で子どもたちが遊んでいます",
+    "answer": "こどもたち",
+    "userAnswer": ""
+  },
+  {
+    "id": 36,
+    "name": "自由に",
+    "meaning": "自由地、隨意地",
+    "sentence": "自由に選んでください",
+    "answer": "じゆうに",
+    "userAnswer": ""
+  }
+]
 },
 {
 "id":32,
