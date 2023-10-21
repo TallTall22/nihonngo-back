@@ -2262,7 +2262,456 @@
 {
 "id":32,
 "title":"無理をしないほうがいいですよ",
-"vocabularies":[]
+"vocabularies":[
+  {
+    "id": 1,
+    "name": "運動します",
+    "meaning": "運動",
+    "sentence": "毎日運動したほうがいいです",
+    "answer": "うんどうします",
+    "userAnswer": ""
+  },
+  {
+    "id": 2,
+    "name": "成功します",
+    "meaning": "成功",
+    "sentence": "オリンピックは成功するでしょうか",
+    "answer": "せいこうします",
+    "userAnswer": ""
+  },
+  {
+    "id": 3,
+    "name": "失敗します",
+    "meaning": "失敗",
+    "sentence": "彼は2回大学受験に失敗しています",
+    "answer": "しっぱいします",
+    "userAnswer": ""
+  },
+  {
+    "id": 4,
+    "name": "合格します",
+    "meaning": "通過、合格",
+    "sentence": "アルバイトの面接に合格しました",
+    "answer": "ごうかくします",
+    "userAnswer": ""
+  },
+  {
+    "id": 5,
+    "name": "やみます",
+    "meaning": "停了",
+    "sentence": "雨がやみませんね",
+    "answer": "やみます",
+    "userAnswer": ""
+  },
+  {
+    "id": 6,
+    "name": "晴れます",
+    "meaning": "晴朗",
+    "sentence": "明日は晴れると思いますか",
+    "answer": "はれます",
+    "userAnswer": ""
+  },
+  {
+    "id": 7,
+    "name": "曇ります",
+    "meaning": "陰天",
+    "sentence": "明日は曇るかもしれない",
+    "answer": "くもります",
+    "userAnswer": ""
+  },
+  {
+    "id": 8,
+    "name": "続きます",
+    "meaning": "持續",
+    "sentence": "ことしはまだ暑い日が続きます",
+    "answer": "つづきます",
+    "userAnswer": ""
+  },
+  {
+    "id": 9,
+    "name": "ひきます",
+    "meaning": "患(病)",
+    "sentence": "風邪をひきました",
+    "answer": "ひきます",
+    "userAnswer": ""
+  },
+  {
+    "id": 10,
+    "name": "冷やします",
+    "meaning": "使~涼下來、冰鎮",
+    "sentence": "冷やした日本酒を飲むのが好きです",
+    "answer": "ひやします",
+    "userAnswer": ""
+  },
+  {
+    "id": 11,
+    "name": "込みます",
+    "meaning": "擁擠",
+    "sentence": "夕方は道が込みますから、早く出発しましょう",
+    "answer": "こみます",
+    "userAnswer": ""
+  },
+  {
+    "id": 12,
+    "name": "すきます",
+    "meaning": "空",
+    "sentence": "道がすいていたので、思ったより早く着いた",
+    "answer": "すきます",
+    "userAnswer": ""
+  },
+  {
+    "id": 13,
+    "name": "出ます",
+    "meaning": "參加",
+    "sentence": "彼は試合にでるでしょうか",
+    "answer": "でます",
+    "userAnswer": ""
+  },
+  {
+    "id": 14,
+    "name": "無理をします",
+    "meaning": "勉強",
+    "sentence": "あまり無理しないほうがいいですよ",
+    "answer": "むりをします",
+    "userAnswer": ""
+  },
+  {
+    "id": 15,
+    "name": "十分",
+    "meaning": "足夠",
+    "sentence": "今わたしは十分時間がない",
+    "answer": "じゅうぶん",
+    "userAnswer": ""
+  },
+  {
+    "id": 16,
+    "name": "おかし",
+    "meaning": "奇怪、可疑",
+    "sentence": "エンジンの音がおかしいと思いませんか",
+    "answer": "おかし",
+    "userAnswer": ""
+  },
+  {
+    "id": 17,
+    "name": "うるさい",
+    "meaning": "吵鬧、煩人",
+    "sentence": "うるさいから静かにしてください",
+    "answer": "うるさい",
+    "userAnswer": ""
+  },
+  {
+    "id": 18,
+    "name": "先生",
+    "meaning": "醫生",
+    "sentence": "今日、わたしは先生に会いました。",
+    "answer": "せんせい",
+    "userAnswer": ""
+  },
+  {
+    "id": 19,
+    "name": "やけど",
+    "meaning": "燙傷、燒傷",
+    "sentence": "わたしは足にやけどをしました",
+    "answer": "やけど",
+    "userAnswer": ""
+  },
+  {
+    "id": 20,
+    "name": "けが",
+    "meaning": "傷",
+    "sentence": "いつけがをしましたか",
+    "answer": "けが",
+    "userAnswer": ""
+  },
+  {
+    "id": 21,
+    "name": "せき",
+    "meaning": "咳嗽",
+    "sentence": "咳が出ますか",
+    "answer": "せき",
+    "userAnswer": ""
+  },
+  {
+    "id": 22,
+    "name": "インフルエンザ",
+    "meaning": "流行性感冒",
+    "sentence": "わたしはインフルエンザになってしまいました",
+    "answer": "インフルエンザ",
+    "userAnswer": ""
+  },
+  {
+    "id": 23,
+    "name": "空",
+    "meaning": "天空",
+    "sentence": "空に鳥が飛んでいます",
+    "answer": "そら",
+    "userAnswer": ""
+  },
+  {
+    "id": 24,
+    "name": "太陽",
+    "meaning": "太陽",
+    "sentence": "地球は太陽の周りを運行します",
+    "answer": "たいよう",
+    "userAnswer": ""
+  },
+  {
+    "id": 25,
+    "name": "星",
+    "meaning": "星星",
+    "sentence": "今夜は星が見えるでしょう",
+    "answer": "ほし",
+    "userAnswer": ""
+  },
+  {
+    "id": 26,
+    "name": "風",
+    "meaning": "風",
+    "sentence": "風邪が強く吹いています",
+    "answer": "かぜ",
+    "userAnswer": ""
+  },
+  {
+    "id": 27,
+    "name": "東",
+    "meaning": "東",
+    "sentence": "彼は京都市の東に住んでいます",
+    "answer": "ひがし",
+    "userAnswer": ""
+  },
+  {
+    "id": 28,
+    "name": "西",
+    "meaning": "西",
+    "sentence": "西の空が赤いですから、明日はいい天気になるでしょう",
+    "answer": "にし",
+    "userAnswer": ""
+  },
+  {
+    "id": 29,
+    "name": "南",
+    "meaning": "南",
+    "sentence": "飛行機は南へ飛んでいた",
+    "answer": "みなみ",
+    "userAnswer": ""
+  },
+  {
+    "id": 30,
+    "name": "北",
+    "meaning": "北",
+    "sentence": "あなたはこの道を北に進んでください",
+    "answer": "きた",
+    "userAnswer": ""
+  },
+  {
+    "id": 31,
+    "name": "国際",
+    "meaning": "國際",
+    "sentence": "この電話で国際電話をかけることができますか",
+    "answer": "こくさい",
+    "userAnswer": ""
+  },
+  {
+    "id": 32,
+    "name": "水道",
+    "meaning": "自來水、自來水管",
+    "sentence": "日本では水道の水がの飲めます",
+    "answer": "すいどう",
+    "userAnswer": ""
+  },
+  {
+    "id": 33,
+    "name": "エンジン",
+    "meaning": "引擎",
+    "sentence": "エンジンの音がおかしいですね",
+    "answer": "エンジン",
+    "userAnswer": ""
+  },
+  {
+    "id": 34,
+    "name": "チーム",
+    "meaning": "隊、團隊",
+    "sentence": "この試合はとっちのチームが勝つと思いますか",
+    "answer": "チーム",
+    "userAnswer": ""
+  },
+  {
+    "id": 35,
+    "name": "今夜",
+    "meaning": "今晚",
+    "sentence": "今夜映画を見に行かない",
+    "answer": "こんや",
+    "userAnswer": ""
+  },
+  {
+    "id": 36,
+    "name": "夕方",
+    "meaning": "傍晚",
+    "sentence": "夕方には雨が止むでしょう",
+    "answer": "ゆうがた",
+    "userAnswer": ""
+  },
+  {
+    "id": 37,
+    "name": "前",
+    "meaning": "前面",
+    "sentence": "前からよく知っています",
+    "answer": "まえ",
+    "userAnswer": ""
+  },
+  {
+    "id": 38,
+    "name": "遅く",
+    "meaning": "遲",
+    "sentence": "夜遅く一人で歩かないほうがいいです",
+    "answer": "おそく",
+    "userAnswer": ""
+  },
+  {
+    "id": 39,
+    "name": "こんなに",
+    "meaning": "這麼(程度相當厲害)",
+    "sentence": "今日はどうしてこんなに寒いの",
+    "answer": "こんなに",
+    "userAnswer": ""
+  },
+  {
+    "id": 40,
+    "name": "そんなに",
+    "meaning": "那麼(與聽者有關的事，程度相當厲害)",
+    "sentence": "野球はそんなに上手くないです",
+    "answer": "そんなに",
+    "userAnswer": ""
+  },
+  {
+    "id": 41,
+    "name": "あんなに",
+    "meaning": "那麼(與說者有關的事，程度相當厲害)",
+    "sentence": "あんなに美味しいものを食べたことがない",
+    "answer": "あんなに",
+    "userAnswer": ""
+  },
+  {
+    "id": 42,
+    "name": "元気",
+    "meaning": "精神、健康",
+    "sentence": "今日は元気ですか",
+    "answer": "げんき",
+    "userAnswer": ""
+  },
+  {
+    "id": 43,
+    "name": "胃",
+    "meaning": "胃",
+    "sentence": "ちょっと胃の調子が悪いんです",
+    "answer": "い",
+    "userAnswer": ""
+  },
+  {
+    "id": 44,
+    "name": "ストレス",
+    "meaning": "壓力",
+    "sentence": "ストレスで太りました",
+    "answer": "ストレス",
+    "userAnswer": ""
+  },
+  {
+    "id": 45,
+    "name": "それはいけませんね",
+    "meaning": "那可不太好",
+    "sentence": "それはいけませんね",
+    "answer": "それはいけませんね",
+    "userAnswer": ""
+  },
+  {
+    "id": 46,
+    "name": "星占い",
+    "meaning": "占星術、星相",
+    "sentence": "星占いは面白いですね",
+    "answer": "ほしうらない",
+    "userAnswer": ""
+  },
+  {
+    "id": 47,
+    "name": "牡牛座",
+    "meaning": "金牛座",
+    "sentence": "わたしの友達は牡牛座です",
+    "answer": "おうしざ",
+    "userAnswer": ""
+  },
+  {
+    "id": 48,
+    "name": "働きすぎ",
+    "meaning": "工作過度",
+    "sentence": "過労は健康に悪いです",
+    "answer": "はたらきすぎ",
+    "userAnswer": ""
+  },
+  {
+    "id": 49,
+    "name": "困ります",
+    "meaning": "為難、困擾",
+    "sentence": "日本語の勉強で困ります",
+    "answer": "こまります",
+    "userAnswer": ""
+  },
+  {
+    "id": 50,
+    "name": "宝くじ",
+    "meaning": "彩券",
+    "sentence": "宝くじで大当たりを狙っています",
+    "answer": "たからくじ",
+    "userAnswer": ""
+  },
+  {
+    "id": 51,
+    "name": "当たります",
+    "meaning": "中獎",
+    "sentence": " 宝くじで当たりますように",
+    "answer": "あたります",
+    "userAnswer": ""
+  },
+  {
+    "id": 52,
+    "name": "健康",
+    "meaning": "健康",
+    "sentence": " 健康が一番大切です",
+    "answer": "けんこう",
+    "userAnswer": ""
+  },
+  {
+    "id": 53,
+    "name": "恋愛",
+    "meaning": "戀愛",
+    "sentence": "恋愛は素晴らしいことです",
+    "answer": "れんあい",
+    "userAnswer": ""
+  },
+  {
+    "id": 54,
+    "name": "恋人",
+    "meaning": "戀人",
+    "sentence": "彼はわたしの恋人です",
+    "answer": "こいびと",
+    "userAnswer": ""
+  },
+  {
+    "id": 55,
+    "name": "ラッキーアイテム",
+    "meaning": "吉祥物",
+    "sentence": "ラッキーアイテムが幸運をもたらすかもしれません",
+    "answer": "ラッキーアイテム",
+    "userAnswer": ""
+  },
+  {
+    "id": 56,
+    "name": "石",
+    "meaning": "石頭",
+    "sentence": "この石は美しいですね",
+    "answer": "いし",
+    "userAnswer": ""
+  }
+]
 },
 {
 "id":33,
