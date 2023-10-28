@@ -1169,7 +1169,7 @@
     "id": 1,
     "name": "開きます",
     "meaning": "開著(ex:開門)",
-    "sentence": "ボタンを押せば、窓が開きます",
+    "sentence": "ボタンを押せば、窓があきます",
     "answer": "あきます",
     "userAnswer": ""
   },
@@ -1392,7 +1392,7 @@
   {
     "id": 29,
     "name": "返事",
-    "meaning": "回應",
+    "meaning": "回信",
     "sentence": "すみませんが、返事をください",
     "answer": "へんじ",
     "userAnswer": ""
@@ -1578,7 +1578,7 @@
     "name": "レポーター",
     "meaning": "採訪記者",
     "sentence": "レポーターが現場から報告しています",
-    "answer": "れぽーたー",
+    "answer": "レポーター",
     "userAnswer": ""
   }
 ]
@@ -2214,7 +2214,7 @@
     "name": "嫌",
     "meaning": "討厭、不喜歡",
     "sentence": "彼は野菜が嫌いです",
-    "answer": "きらい",
+    "answer": "いや",
     "userAnswer": ""
   },
   {
@@ -2385,10 +2385,10 @@
   },
   {
     "id": 16,
-    "name": "おかし",
+    "name": "おかしい",
     "meaning": "奇怪、可疑",
     "sentence": "エンジンの音がおかしいと思いませんか",
-    "answer": "おかし",
+    "answer": "おかしい",
     "userAnswer": ""
   },
   {
@@ -2562,7 +2562,7 @@
   {
     "id": 38,
     "name": "遅く",
-    "meaning": "遲",
+    "meaning": "晚(時間)",
     "sentence": "夜遅く一人で歩かないほうがいいです",
     "answer": "おそく",
     "userAnswer": ""
@@ -2586,7 +2586,7 @@
   {
     "id": 41,
     "name": "あんなに",
-    "meaning": "那麼(與說者有關的事，程度相當厲害)",
+    "meaning": "那麼(與說話者、聽者都無關的事，程度相當厲害)",
     "sentence": "あんなに美味しいものを食べたことがない",
     "answer": "あんなに",
     "userAnswer": ""
@@ -2716,7 +2716,408 @@
 {
 "id":33,
 "title":"これはどういう意味ですか",
-"vocabularies":[]
+"vocabularies":[
+    {
+        "id": 1,
+        "name": "逃げます",
+        "meaning": "逃走",
+        "sentence": "早く逃げろ",
+        "answer": "にげます",
+        "userAnswer": ""
+    },
+    {
+        "id": 2,
+        "name": "騒ぎます",
+        "meaning": "吵鬧、喧嘩",
+        "sentence": "今お客さんが来ているからがやがや騒ぐな",
+        "answer": "さわぎます",
+        "userAnswer": ""
+    },
+    {
+        "id": 3,
+        "name": "あきらめます",
+        "meaning": "放棄、死心",
+        "sentence": "残念ですがあきらめます",
+        "answer": "あきらめます",
+        "userAnswer": ""
+    },
+    {
+        "id": 4,
+        "name": "投げます",
+        "meaning": "投、扔",
+        "sentence": "ボールを投げるな",
+        "answer": "なげます",
+        "userAnswer": ""
+    },
+    {
+        "id": 5,
+        "name": "守ります",
+        "meaning": "遵守",
+        "sentence": "お約束は必ず守ります",
+        "answer": "まもります",
+        "userAnswer": ""
+    },
+    {
+        "id": 6,
+        "name": "始まります",
+        "meaning": "開始",
+        "sentence": "学校では授業が始まりました",
+        "answer": "はじまります",
+        "userAnswer": ""
+    },
+    {
+        "id": 7,
+        "name": "出席します",
+        "meaning": "出席",
+        "sentence": "会議には何人出席しましたか",
+        "answer": "しゅっせきします",
+        "userAnswer": ""
+    },
+    {
+        "id": 8,
+        "name": "伝えます",
+        "meaning": "傳達、轉告",
+        "sentence": "彼女によろしく伝えてください",
+        "answer": "つたえます",
+        "userAnswer": ""
+    },
+    {
+        "id": 9,
+        "name": "注意します",
+        "meaning": "注意、小心",
+        "sentence": "食べ過ぎに注意してください",
+        "answer": "ちゅういします",
+        "userAnswer": ""
+    },
+    {
+        "id": 10,
+        "name": "外します",
+        "meaning": "離開",
+        "sentence": "あいにく、昼食後まで席を外します",
+        "answer": "はずします",
+        "userAnswer": ""
+    },
+    {
+        "id": 11,
+        "name": "戻ります",
+        "meaning": "回來、返回",
+        "sentence": "わたしはこの部屋に5時半ごろに戻ります",
+        "answer": "もどります",
+        "userAnswer": ""
+    },
+    {
+        "id": 12,
+        "name": "あります",
+        "meaning": "有",
+        "sentence": "ちょっといま彼から電話がありました",
+        "answer": "あります",
+        "userAnswer": ""
+    },
+    {
+        "id": 13,
+        "name": "リサイクルします",
+        "meaning": "再利用、資源回收",
+        "sentence": "リサイクルするために、きちんと分別しなければなりません",
+        "answer": "リサイクルします",
+        "userAnswer": ""
+    },
+    {
+        "id": 14,
+        "name": "だめ",
+        "meaning": "不行、不可能",
+        "sentence": "だめだ。もう走れない",
+        "answer": "だめ",
+        "userAnswer": ""
+    },
+    {
+        "id": 15,
+        "name": "同じ",
+        "meaning": "一樣、同樣",
+        "sentence": "わたしたちは同じ誕生日です",
+        "answer": "おなじ",
+        "userAnswer": ""
+    },
+    {
+        "id": 16,
+        "name": "警察",
+        "meaning": "警察、警察局",
+        "sentence": "「1週間以内に警察へ来てください」と書いてあります",
+        "answer": "けいさつ",
+        "userAnswer": ""
+    },
+    {
+        "id": 17,
+        "name": "席",
+        "meaning": "座位",
+        "sentence": "山田はただいま席を外しています",
+        "answer": "せき",
+        "userAnswer": ""
+    },
+    {
+        "id": 18,
+        "name": "マーク",
+        "meaning": "標記",
+        "sentence": "このマークはどういう意味ですか",
+        "answer": "マーク",
+        "userAnswer": ""
+    },
+    {
+        "id": 19,
+        "name": "ボール",
+        "meaning": "球",
+        "sentence": "ボールを投げるな",
+        "answer": "ボール",
+        "userAnswer": ""
+    },
+    {
+        "id": 20,
+        "name": "締め切り",
+        "meaning": "截止",
+        "sentence": "この作文の締め切りは明日です",
+        "answer": "しめきり",
+        "userAnswer": ""
+    },
+    {
+        "id": 21,
+        "name": "規則",
+        "meaning": "規則",
+        "sentence": "交通規則をまもれ",
+        "answer": "きそく",
+        "userAnswer": ""
+    },
+    {
+        "id": 22,
+        "name": "危険",
+        "meaning": "危險",
+        "sentence": "歩きながらスマートフォンを操作するのは危険です",
+        "answer": "きけん",
+        "userAnswer": ""
+    },
+    {
+        "id": 23,
+        "name": "使用禁止",
+        "meaning": "禁止使用",
+        "sentence": "このトイレは使用禁止です",
+        "answer": "しようきんし",
+        "userAnswer": ""
+    },
+    {
+        "id": 24,
+        "name": "立入禁止",
+        "meaning": "禁止入內",
+        "sentence": "立入禁止は入るなという意味です",
+        "answer": "たちいりきんし",
+        "userAnswer": ""
+    },
+    {
+        "id": 25,
+        "name": "徐行",
+        "meaning": "慢行",
+        "sentence": "電車は駅近くになって徐行した",
+        "answer": "じょこう",
+        "userAnswer": ""
+    },
+    {
+        "id": 26,
+        "name": "入口",
+        "meaning": "入口",
+        "sentence": "あの漢字は「いりぐち」と読みます",
+        "answer": "いりぐち",
+        "userAnswer": ""
+    },
+    {
+        "id": 27,
+        "name": "出口",
+        "meaning": "出口",
+        "sentence": "火事の時にはこの出口を使ってください",
+        "answer": "でぐち",
+        "userAnswer": ""
+    },
+    {
+        "id": 28,
+        "name": "非常口",
+        "meaning": "緊急出口",
+        "sentence": "非常口の確認を必ずしてください",
+        "answer": "ひじょうぐち",
+        "userAnswer": ""
+    },
+    {
+        "id": 29,
+        "name": "無料",
+        "meaning": "免費",
+        "sentence": "これは無料ですか、有料ですか",
+        "answer": "むりょう",
+        "userAnswer": ""
+    },
+    {
+        "id": 30,
+        "name": "割引",
+        "meaning": "打折",
+        "sentence": "割引は、いくつ以上の注文からですか",
+        "answer": "わりびき",
+        "userAnswer": ""
+    },
+    {
+        "id": 31,
+        "name": "飲み放題",
+        "meaning": "無限暢飲",
+        "sentence": "飲み放題は飲むことを制限しないという意味です",
+        "answer": "のみほうだい",
+        "userAnswer": ""
+    },
+    {
+        "id": 32,
+        "name": "使用中",
+        "meaning": "正在使用",
+        "sentence": "その会議室は現在使用中です",
+        "answer": "しようちゅう",
+        "userAnswer": ""
+    },
+    {
+        "id": 33,
+        "name": "募集中",
+        "meaning": "正在招募",
+        "sentence": "短期アルバイトを募集しております",
+        "answer": "ぼしゅうちゅう",
+        "userAnswer": ""
+    },
+    {
+        "id": 34,
+        "name": "中",
+        "meaning": "正在",
+        "sentence": "彼は大阪へ出張中です",
+        "answer": "ちゅう",
+        "userAnswer": ""
+    },
+    {
+        "id": 35,
+        "name": "どういう",
+        "meaning": "怎樣的、什麼樣的",
+        "sentence": "あれはどういう意味ですか",
+        "answer": "どういう",
+        "userAnswer": ""
+    },
+    {
+        "id": 36,
+        "name": "いくら",
+        "meaning": "怎麼...也...、無論...也...",
+        "sentence": "いくら高くても、買います",
+        "answer": "いくら",
+        "userAnswer": ""
+    },
+    {
+        "id": 37,
+        "name": "もう",
+        "meaning": "已經、不再(與否定形一起使用)",
+        "sentence": "もう時間がない",
+        "answer": "もう",
+        "userAnswer": ""
+    },
+    {
+        "id": 38,
+        "name": "あと",
+        "meaning": "還有...",
+        "sentence": "あと10日で夏休みにあります",
+        "answer": "あと",
+        "userAnswer": ""
+    },
+    {
+        "id": 39,
+        "name": "ほど",
+        "meaning": "大概...、大約...",
+        "sentence": "あと10分ほどで到着します",
+        "answer": "ほど",
+        "userAnswer": ""
+    },
+    {
+        "id": 40,
+        "name": "駐車違反",
+        "meaning": "違規停車",
+        "sentence": "彼は駐車違反で罰金をとられた",
+        "answer": "ちゅうしゃいはん",
+        "userAnswer": ""
+    },
+    {
+        "id": 41,
+        "name": "罰金",
+        "meaning": "罰款",
+        "sentence": "罰金は払わなくてもいいんですか",
+        "answer": "ばっきん",
+        "userAnswer": ""
+    },
+    {
+        "id": 42,
+        "name": "地震",
+        "meaning": "地震",
+        "sentence": "今日は地震がありました。",
+        "answer": "じしん",
+        "userAnswer": ""
+    },
+    {
+        "id": 43,
+        "name": "起きます",
+        "meaning": "發生",
+        "sentence": "毎年たくさんの地震が起きます。",
+        "answer": "おきます",
+        "userAnswer": ""
+    },
+    {
+        "id": 44,
+        "name": "助け合います",
+        "meaning": "互助",
+        "sentence": "困った時、人々は助け合います。",
+        "answer": "たすけあいます",
+        "userAnswer": ""
+    },
+    {
+        "id": 45,
+        "name": "もともと",
+        "meaning": "原本、原來",
+        "sentence": "彼はもともと優秀な学生でした。",
+        "answer": "もともと",
+        "userAnswer": ""
+    },
+    {
+        "id": 46,
+        "name": "悲しい",
+        "meaning": "悲傷",
+        "sentence": "彼女は悲しい出来事に遭遇しました。",
+        "answer": "かなしい",
+        "userAnswer": ""
+    },
+    {
+        "id": 47,
+        "name": "もっと",
+        "meaning": "更加",
+        "sentence": "もっと頑張りましょう！",
+        "answer": "もっと",
+        "userAnswer": ""
+    },
+    {
+        "id": 48,
+        "name": "あいさつ",
+        "meaning": "寒暄、問候",
+        "sentence": "日本ではあいさつがとても大切です。",
+        "answer": "あいさつ",
+        "userAnswer": ""
+    },
+    {
+        "id": 49,
+        "name": "相手",
+        "meaning": "對方",
+        "sentence": "競技の相手は強力です。",
+        "answer": "あいて",
+        "userAnswer": ""
+    },
+    {
+        "id": 50,
+        "name": "気持ち",
+        "meaning": "心情、情緒",
+        "sentence": "彼の気持ちを理解しよう。",
+        "answer": "きもち",
+        "userAnswer": ""
+    }
+]
 },
 {
 "id":34,
