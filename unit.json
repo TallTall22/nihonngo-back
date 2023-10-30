@@ -3122,7 +3122,408 @@
 {
 "id":34,
 "title":"わたしがしたとおりに、してください",
-"vocabularies":[]
+"vocabularies":[
+    {
+        "id": 1,
+        "name": "磨きます",
+        "meaning": "刷", 
+        "sentence": "ご飯を食べ後で歯を磨きます",
+        "answer": "みがきます",
+        "userAnswer": ""
+    },
+    {
+        "id": 2,
+        "name": "組み立てます",
+        "meaning": "組裝", 
+        "sentence": "このテーブルは自分で組み立てるんですか",
+        "answer": "くみたてます",
+        "userAnswer": ""
+    },
+    {
+        "id": 3,
+        "name": "折ります",
+        "meaning": "摺、折彎", 
+        "sentence": "紙を折ります",
+        "answer": "おります",
+        "userAnswer": ""
+    },
+    {
+        "id": 4,
+        "name": "気がつきます",
+        "meaning": "發現、發覺", 
+        "sentence": "いつ忘れ物に気がつきましたか",
+        "answer": "きがつきます",
+        "userAnswer": ""
+    },
+    {
+        "id": 5,
+        "name": "つけます",
+        "meaning": "沾", 
+        "sentence": "しょうゆをつけないで食べます",
+        "answer": "つけます",
+        "userAnswer": ""
+    },
+    {
+        "id": 6,
+        "name": "見つかります",
+        "meaning": "找到", 
+        "sentence": "新しいのを買ったあとで、なくした時計が見つかりました",
+        "answer": "みつかります",
+        "userAnswer": ""
+    },
+    {
+        "id": 7,
+        "name": "質問します",
+        "meaning": "提問", 
+        "sentence": "学校の中を見学したあとで、質問しました",
+        "answer": "しつもんします",
+        "userAnswer": ""
+    },
+    {
+        "id": 8,
+        "name": "さします",
+        "meaning": "撐(ex:傘)", 
+        "sentence": "雨が降ってきたので傘をさした",
+        "answer": "さします",
+        "userAnswer": ""
+    },
+    {
+        "id": 9,
+        "name": "スポーツクラブ",
+        "meaning": "運動俱樂部", 
+        "sentence": "スポーツクラブに入っていますか",
+        "answer": "スポーツクラブ",
+        "userAnswer": ""
+    },
+    {
+        "id": 10,
+        "name": "城",
+        "meaning": "城", 
+        "sentence": "わたしたちはお城の中を見学することができますか",
+        "answer": "しろ",
+        "userAnswer": ""
+    },
+    {
+        "id": 11,
+        "name": "説明書",
+        "meaning": "說明書", 
+        "sentence": "説明書のとおりに組み立ててください",
+        "answer": "せつめいしょ",
+        "userAnswer": ""
+    },
+    {
+        "id": 12,
+        "name": "図",
+        "meaning": "圖", 
+        "sentence": "図をみれば、使い方がわかります",
+        "answer": "ず",
+        "userAnswer": ""
+    },
+    {
+        "id": 13,
+        "name": "線",
+        "meaning": "線", 
+        "sentence": "このせんのとおりに、切ってください",
+        "answer": "せん",
+        "userAnswer": ""
+    },
+    {
+        "id": 14,
+        "name": "矢印",
+        "meaning": "箭頭", 
+        "sentence": "この矢印の方向にお進みください",
+        "answer": "やじるし",
+        "userAnswer": ""
+    },
+    {
+        "id": 15,
+        "name": "黒",
+        "meaning": "黑色", 
+        "sentence": "黒い服を着て行きます",
+        "answer": "くろ",
+        "userAnswer": ""
+    },
+    {
+        "id": 16,
+        "name": "白",
+        "meaning": "白色", 
+        "sentence": "わたしの車の色は白です",
+        "answer": "しろ",
+        "userAnswer": ""
+    },
+    {
+        "id": 17,
+        "name": "赤",
+        "meaning": "紅色", 
+        "sentence": "この色は赤に近い",
+        "answer": "あか",
+        "userAnswer": ""
+    },
+    {
+        "id": 18,
+        "name": "青",
+        "meaning": "藍色", 
+        "sentence": "青信号になった",
+        "answer": "あお",
+        "userAnswer": ""
+    },
+    {
+        "id": 19,
+        "name": "紺",
+        "meaning": "深藍色", 
+        "sentence": "昔から紺色が好きです",
+        "answer": "こん",
+        "userAnswer": ""
+    },
+    {
+        "id": 20,
+        "name": "黄色",
+        "meaning": "黃色", 
+        "sentence": "黄色はわたしにはあまりに合わない",
+        "answer": "きいろ",
+        "userAnswer": ""
+    },
+    {
+        "id": 21,
+        "name": "茶色",
+        "meaning": "棕色", 
+        "sentence": "木村は茶色の目をした人形を持っています",
+        "answer": "ちゃいろ",
+        "userAnswer": ""
+    },
+    {
+        "id": 22,
+        "name": "しょうゆ",
+        "meaning": "醬油", 
+        "sentence": "醬油味のスープはおいしいです",
+        "answer": "しょうゆ",
+        "userAnswer": ""
+    },
+    {
+        "id": 23,
+        "name": "ソース",
+        "meaning": "醬汁", 
+        "sentence": "これはソースをつけるんですか",
+        "answer": "ソース",
+        "userAnswer": ""
+    },
+    {
+        "id": 24,
+        "name": "お客さん",
+        "meaning": "顧客、客戶", 
+        "sentence": "家にお客さんが来ました",
+        "answer": "おきゃくさん",
+        "userAnswer": ""
+    },
+    {
+        "id": 25,
+        "name": "か",
+        "meaning": "或", 
+        "sentence": "男の人は結婚式に黒か紺のスーツを着て行きます",
+        "answer": "か",
+        "userAnswer": ""
+    },
+    {
+        "id": 26,
+        "name": "昨夜",
+        "meaning": "昨夜", 
+        "sentence": "昨夜よく眠れました",
+        "answer": "ゆうべ",
+        "userAnswer": ""
+    },
+    {
+        "id": 27,
+        "name": "さっき",
+        "meaning": "剛才", 
+        "sentence": "さっきはごめん",
+        "answer": "さっき",
+        "userAnswer": ""
+    },
+    {
+        "id": 28,
+        "name": "茶道",
+        "meaning": "茶道", 
+        "sentence": "茶道について調べました",
+        "answer": "さどう",
+        "userAnswer": ""
+    },
+    {
+        "id": 29,
+        "name": "お茶をたてます",
+        "meaning": "泡茶、沏茶", 
+        "sentence": "お茶をたてます",
+        "answer": "おちゃをたてます",
+        "userAnswer": ""
+    },
+    {
+        "id": 30,
+        "name": "先に",
+        "meaning": "先、首先", 
+        "sentence": "先に料金を払ってください",
+        "answer": "さきに",
+        "userAnswer": ""
+    },
+    {
+        "id": 31,
+        "name": "載せます",
+        "meaning": "放上", 
+        "sentence": "その箱をここに載せてください",
+        "answer": "のせます",
+        "userAnswer": ""
+    },
+    {
+        "id": 32,
+        "name": "これでいいですか",
+        "meaning": "這樣可以嗎", 
+        "sentence": "これでいいですか",
+        "answer": "これでいいですか",
+        "userAnswer": ""
+    },
+    {
+        "id": 33,
+        "name": "いかがですか",
+        "meaning": "怎麼樣", 
+        "sentence": "お茶はいかがですか",
+        "answer": "いかがですか",
+        "userAnswer": ""
+    },
+    {
+        "id": 34,
+        "name": "苦い",
+        "meaning": "苦", 
+        "sentence": "少し苦いですが、おいしいです",
+        "answer": "にがい",
+        "userAnswer": ""
+    },
+    {
+        "id": 35,
+        "name": "親子どんぶり",
+        "meaning": "雞肉雞蛋蓋飯", 
+        "sentence": "今晩、親子どんぶりを作る予定です",
+        "answer": "おやこどんぶり",
+        "userAnswer": ""
+    },
+    {
+        "id": 36,
+        "name": "材料",
+        "meaning": "材料", 
+        "sentence": "材料のリストをチェックして、何かが不足していないか確認してください",
+        "answer": "ざいりょう",
+        "userAnswer": ""
+    },
+    {
+        "id": 37,
+        "name": "分",
+        "meaning": "分(表示量)", 
+        "sentence": "材料を均等に四つに分けてください",
+        "answer": "ぶん",
+        "userAnswer": ""
+    },
+    {
+        "id": 38,
+        "name": "グラム",
+        "meaning": "克", 
+        "sentence": "このレシピには100グラムの小麥粉が必要です",
+        "answer": "グラム",
+        "userAnswer": ""
+    },
+    {
+        "id": 39,
+        "name": "個",
+        "meaning": "個", 
+        "sentence": "これに2個の卵を加えます",
+        "answer": "こ",
+        "userAnswer": ""
+    },
+    {
+        "id": 40,
+        "name": "たまねぎ",
+        "meaning": "洋蔥", 
+        "sentence": "たまねぎをみじん切りにしてください",
+        "answer": "たまねぎ",
+        "userAnswer": ""
+    },
+    {
+        "id": 41,
+        "name": "四分の一",
+        "meaning": "四分之一", 
+        "sentence": "鍋に水を四分の一杯入れてください",
+        "answer": "よんぶんのいち",
+        "userAnswer": ""
+    },
+    {
+        "id": 42,
+        "name": "調味料",
+        "meaning": "調味料", 
+        "sentence": "調味料を少し加えて味を調整してください",
+        "answer": "ちょうみりょう",
+        "userAnswer": ""
+    },
+    {
+        "id": 43,
+        "name": "適当な大きさに",
+        "meaning": "適當大小", 
+        "sentence": "具材を適当な大きさに切ってください",
+        "answer": "てきとうなおおきさに",
+        "userAnswer": ""
+    },
+    {
+        "id": 44,
+        "name": "なべ",
+        "meaning": "鍋", 
+        "sentence": "なべにお湯を沸かしてください",
+        "answer": "なべ",
+        "userAnswer": ""
+    },
+    {
+        "id": 45,
+        "name": "火",
+        "meaning": "火", 
+        "sentence": "火を中火にして、10分間煮てください",
+        "answer": "ひ",
+        "userAnswer": ""
+    },
+    {
+        "id": 46,
+        "name": "火にかけます",
+        "meaning": "加熱", 
+        "sentence": "鍋を火にかけて、沸騰させてください",
+        "answer": "ひにかけます",
+        "userAnswer": ""
+    },
+    {
+        "id": 47,
+        "name": "煮ます",
+        "meaning": "煮、燉", 
+        "sentence": "具材を鍋で20分間煮ます",
+        "answer": "にます",
+        "userAnswer": ""
+    },
+    {
+        "id": 48,
+        "name": "煮えます",
+        "meaning": "煮熟", 
+        "sentence": "材料が煮えるまで待ってください",
+        "answer": "にえます",
+        "userAnswer": ""
+    },
+    {
+        "id": 49,
+        "name": "どんぶり",
+        "meaning": "大碗", 
+        "sentence": "煮た料理をどんぶりに盛り付けてください",
+        "answer": "どんぶり",
+        "userAnswer": ""
+    },
+    {
+        "id": 50,
+        "name": "たちます",
+        "meaning": "流逝、過去", 
+        "sentence": "時間がたちました",
+        "answer": "たちます",
+        "userAnswer": ""
+    }
+]
 },
 {
 "id":35,
