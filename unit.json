@@ -3528,7 +3528,344 @@
 {
 "id":35,
 "title":"どこかいい所、ありませんか",
-"vocabularies":[]
+"vocabularies":[
+  {
+    "id": 1,
+    "name": "咲きます",
+    "meaning": "開(花)",
+    "sentence": "もすぐ桜の花が咲きます",
+    "answer": "さきます",
+    "userAnswer": ""
+  },
+  {
+    "id": 2,
+    "name": "変わります",
+    "meaning": "變(ex:色)",
+    "sentence": "秋にならば、木の葉の色が変わります",
+    "answer": "かわります",
+    "userAnswer": ""
+  },
+  {
+    "id": 3,
+    "name": "困ります",
+    "meaning": "為難、困擾",
+    "sentence": "英語ができなければ、海外旅行の時、困ります",
+    "answer": "こまります",
+    "userAnswer": ""
+  },
+  {
+    "id": 4,
+    "name": "付けます",
+    "meaning": "加上、畫(ex:圈)",
+    "sentence": "答えが正しければ、丸を付けてください",
+    "answer": "つけます",
+    "userAnswer": ""
+  },
+  {
+    "id": 5,
+    "name": "治ります、直ります",
+    "meaning": "痊癒、治好、修理好",
+    "sentence": "コンピュータは直りました",
+    "answer": "なおります",
+    "userAnswer": ""
+  },
+  {
+    "id": 6,
+    "name": "クリックします",
+    "meaning": "點擊",
+    "sentence": "次のページをクリックしなさい",
+    "answer": "クリックします",
+    "userAnswer": ""
+  },
+  {
+    "id": 7,
+    "name": "入力します",
+    "meaning": "輸入",
+    "sentence": "暗証番号を入力してください",
+    "answer": "にゅうりょくします",
+    "userAnswer": ""
+  },
+  {
+    "id": 8,
+    "name": "正しい",
+    "meaning": "正確",
+    "sentence": "あなたの考え方は正しいです",
+    "answer": "ただしい",
+    "userAnswer": ""
+  },
+  {
+    "id": 9,
+    "name": "向こう",
+    "meaning": "對面，那邊",
+    "sentence": "天気がよければ、向こうに島が見えます",
+    "answer": "むこう",
+    "userAnswer": ""
+  },
+  {
+    "id": 10,
+    "name": "島",
+    "meaning": "島",
+    "sentence": "いい天気なら、向こうに島が見えます",
+    "answer": "しま",
+    "userAnswer": ""
+  },
+  {
+    "id": 11,
+    "name": "港",
+    "meaning": "港口",
+    "sentence": "彼は朝食を食べないで港へ出掛けた",
+    "answer": "みなと",
+    "userAnswer": ""
+  },
+  {
+    "id": 12,
+    "name": "近所",
+    "meaning": "附近，鄰居",
+    "sentence": "彼は近所の公園に行った",
+    "answer": "きんじょ",
+    "userAnswer": ""
+  },
+  {
+    "id": 13,
+    "name": "屋上",
+    "meaning": "屋頂",
+    "sentence": "ビルの屋上から下を見るのが怖いです",
+    "answer": "おくじょう",
+    "userAnswer": ""
+  },
+  {
+    "id": 14,
+    "name": "海外",
+    "meaning": "海外",
+    "sentence": "今回、海外に行くことを決めました",
+    "answer": "かいがい",
+    "userAnswer": ""
+  },
+  {
+    "id": 15,
+    "name": "山登り",
+    "meaning": "登山",
+    "sentence": "山登りをするのは体にとても良い",
+    "answer": "やまのぼり",
+    "userAnswer": ""
+  },
+  {
+    "id": 16,
+    "name": "歴史",
+    "meaning": "歷史",
+    "sentence": "歴史の教科書を使いました",
+    "answer": "れきし",
+    "userAnswer": ""
+  },
+  {
+    "id": 17,
+    "name": "機会",
+    "meaning": "機會",
+    "sentence": "機会があれば、アメリカへいきたいです",
+    "answer": "きかい",
+    "userAnswer": ""
+  },
+  {
+    "id": 18,
+    "name": "許可",
+    "meaning": "許可",
+    "sentence": "許可がなければ、ここでは写真が撮れません",
+    "answer": "きょか",
+    "userAnswer": ""
+  },
+  {
+    "id": 19,
+    "name": "丸",
+    "meaning": "圓，圈",
+    "sentence": "黒板に丸を1つ描く",
+    "answer": "まる",
+    "userAnswer": ""
+  },
+  {
+    "id": 20,
+    "name": "ふりがな",
+    "meaning": "標注假名",
+    "sentence": "ふりがながあればわたしは読めます",
+    "answer": "ふりがな",
+    "userAnswer": ""
+  },
+  {
+    "id": 21,
+    "name": "設備",
+    "meaning": "設備",
+    "sentence": "この工場は設備がひどく古い",
+    "answer": "せつび",
+    "userAnswer": ""
+  },
+  {
+    "id": 22,
+    "name": "レバー",
+    "meaning": "把手、操縱桿",
+    "sentence": "レバーを左へ回せば、熱くなります",
+    "answer": "レバー",
+    "userAnswer": ""
+  },
+  {
+    "id": 23,
+    "name": "キー",
+    "meaning": "鍵",
+    "sentence": "このキーをあとで押してください",
+    "answer": "キー",
+    "userAnswer": ""
+  },
+  {
+    "id": 24,
+    "name": "カーテン",
+    "meaning": "窗簾",
+    "sentence": "白いカーテンが気に入ってます",
+    "answer": "カーテン",
+    "userAnswer": ""
+  },
+  {
+    "id": 25,
+    "name": "ひも",
+    "meaning": "繩子",
+    "sentence": "荷物が重くて、袋のひもが切れそうです",
+    "answer": "ひも",
+    "userAnswer": ""
+  },
+  {
+    "id": 26,
+    "name": "炊飯器",
+    "meaning": "電鍋",
+    "sentence": "炊飯器でご飯を炊く",
+    "answer": "すいはんき",
+    "userAnswer": ""
+  },
+  {
+    "id": 27,
+    "name": "葉",
+    "meaning": "葉子",
+    "sentence": "木の葉が落ちて来た",
+    "answer": "は",
+    "userAnswer": ""
+  },
+  {
+    "id": 28,
+    "name": "昔",
+    "meaning": "過去、以前",
+    "sentence": "昔も今も変わらない",
+    "answer": "むかし",
+    "userAnswer": ""
+  },
+  {
+    "id": 29,
+    "name": "もっと",
+    "meaning": "更、更加",
+    "sentence": "イギリスがもっと好きになります",
+    "answer": "もっと",
+    "userAnswer": ""
+  },
+  {
+    "id": 30,
+    "name": "これで終わりましょう",
+    "meaning": "到此結束吧",
+    "sentence": "今日はこれで終わりましょう",
+    "answer": "これでおわりましょう",
+    "userAnswer": ""
+  },
+  {
+    "id": 31,
+    "name": "それなら",
+    "meaning": "那樣的話，如果是那樣",
+    "sentence": "それなら京都に行くつもりです",
+    "answer": "それなら",
+    "userAnswer": ""
+  },
+  {
+    "id": 32,
+    "name": "夜行バス",
+    "meaning": "夜行巴士",
+    "sentence": "わたしたちは夜行バスで東京へ行きました",
+    "answer": "やこうバス",
+    "userAnswer": ""
+  },
+  {
+    "id": 33,
+    "name": "さあ",
+    "meaning": "哎(用於對一些情況不太清楚時)",
+    "sentence": "さあ、何をすべきか分からない",
+    "answer": "さあ",
+    "userAnswer": ""
+  },
+  {
+    "id": 34,
+    "name": "旅行社",
+    "meaning": "旅行社",
+    "sentence": "旅行社はわたしたちにガイドを手配してくれた",
+    "answer": "りょこうしゃ",
+    "userAnswer": ""
+  },
+  {
+    "id": 35,
+    "name": "詳しい",
+    "meaning": "詳細",
+    "sentence": "理由を詳しく説明しました",
+    "answer": "くわしい",
+    "userAnswer": ""
+  },
+  {
+    "id": 36,
+    "name": "スキー場",
+    "meaning": "滑雪場",
+    "sentence": "スキー場で仕事する予定がありますか",
+    "answer": "すきーば",
+    "userAnswer": ""
+  },
+  {
+    "id": 37,
+    "name": "朱",
+    "meaning": "朱紅、紅色",
+    "sentence": "これは美しい朱の色です。",
+    "answer": "しゅ",
+    "userAnswer": ""
+  },
+  {
+    "id": 38,
+    "name": "交わります",
+    "meaning": "來往、交際",
+    "sentence": "人々は公園で交わります。",
+    "answer": "まじわります",
+    "userAnswer": ""
+  },
+  {
+    "id": 39,
+    "name": "ことわざ",
+    "meaning": "諺語",
+    "sentence": "日本には多くのことわざがあります。",
+    "answer": "ことわざ",
+    "userAnswer": ""
+  },
+  {
+    "id": 40,
+    "name": "関係",
+    "meaning": "關係",
+    "sentence": "私たちの関係はとても良いです。",
+    "answer": "かんけい",
+    "userAnswer": ""
+  },
+  {
+    "id": 41,
+    "name": "仲よくします",
+    "meaning": "友好交往",
+    "sentence": "わたしたちはいつも仲よくします。",
+    "answer": "なかよくします",
+    "userAnswer": ""
+  },
+  {
+    "id": 42,
+    "name": "必要",
+    "meaning": "必要、需要",
+    "sentence": "水は生きるために必要です。",
+    "answer": "ひつよう",
+    "userAnswer": ""
+  }
+]
 },
 {
 "id":36,
