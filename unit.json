@@ -3814,7 +3814,7 @@
     "name": "スキー場",
     "meaning": "滑雪場",
     "sentence": "スキー場で仕事する予定がありますか",
-    "answer": "すきーば",
+    "answer": "スキーじょう",
     "userAnswer": ""
   },
   {
@@ -3870,7 +3870,320 @@
 {
 "id":36,
 "title":"毎日運動するようにしています",
-"vocabularies":[]
+"vocabularies":[
+    {
+        "id": 1,
+        "name": "あいます",
+        "meaning": "遇到",
+        "sentence": "交通事故にあった場合は、すぐ警察に連絡してください",
+        "answer": "あいます",
+        "userAnswer": ""
+    },
+    {
+        "id": 2,
+        "name": "貯金します",
+        "meaning": "存錢",
+        "sentence": "年を取ってから、困らないように、貯金します",
+        "answer": "ちょきんします",
+        "userAnswer": ""
+    },
+    {
+        "id": 3,
+        "name": "過ぎます",
+        "meaning": "過",
+        "sentence": "夜10時を過ぎたら、洗濯しないようにしてください",
+        "answer": "すぎます",
+        "userAnswer": ""
+    },
+    {
+        "id": 4,
+        "name": "慣れます",
+        "meaning": "習慣",
+        "sentence": "一人暮らしにはもう慣れました",
+        "answer": "なれます",
+        "userAnswer": ""
+    },
+    {
+        "id": 5,
+        "name": "腐ります",
+        "meaning": "腐爛",
+        "sentence": "腐りやすい食品を冷凍した",
+        "answer": "くさります",
+        "userAnswer": ""
+    },
+    {
+        "id": 6,
+        "name": "剣道",
+        "meaning": "劍道",
+        "sentence": "剣道の練習を頑張っています",
+        "answer": "けんどう",
+        "userAnswer": ""
+    },
+    {
+        "id": 7,
+        "name": "柔道",
+        "meaning": "柔道",
+        "sentence": "あなたは柔道の達人ですね",
+        "answer": "じゅうどう",
+        "userAnswer": ""
+    },
+    {
+        "id": 8,
+        "name": "ラッシュ",
+        "meaning": "上下班高峰時間、交通尖峰時間",
+        "sentence": "ラッシュの電車で足を踏まれました",
+        "answer": "ラッシュ",
+        "userAnswer": ""
+    },
+    {
+        "id": 9,
+        "name": "宇宙",
+        "meaning": "宇宙",
+        "sentence": "宇宙から見た地球はとても美しい",
+        "answer": "うちゅう",
+        "userAnswer": ""
+    },
+    {
+        "id": 10,
+        "name": "曲",
+        "meaning": "曲子",
+        "sentence": "この曲はその曲より少し難しい",
+        "answer": "きょく",
+        "userAnswer": ""
+    },
+    {
+        "id": 11,
+        "name": "毎週",
+        "meaning": "每週、每星期",
+        "sentence": "毎週日曜日に野球をしますか",
+        "answer": "まいしゅう",
+        "userAnswer": ""
+    },
+    {
+        "id": 12,
+        "name": "毎月",
+        "meaning": "每月",
+        "sentence": "彼女は毎月残ったお金を銀行に預ける",
+        "answer": "まいつき",
+        "userAnswer": ""
+    },
+    {
+        "id": 13,
+        "name": "毎年",
+        "meaning": "每年",
+        "sentence": "大学を卒業してから毎年1回、海外旅行をしている",
+        "answer": "まいとし",
+        "userAnswer": ""
+    },
+    {
+        "id": 14,
+        "name": "このごる",
+        "meaning": "這些日子、最近",
+        "sentence": "このごろ良い天気が続いている",
+        "answer": "このごる",
+        "userAnswer": ""
+    },
+    {
+        "id": 15,
+        "name": "やっと",
+        "meaning": "終於、總算",
+        "sentence": "やっと自転車に乗れるようになりました",
+        "answer": "やっと",
+        "userAnswer": ""
+    },
+    {
+        "id": 16,
+        "name": "かなり",
+        "meaning": "相當",
+        "sentence": "外はかなり暑そうだ",
+        "answer": "かなり",
+        "userAnswer": ""
+    },
+    {
+        "id": 17,
+        "name": "必ず",
+        "meaning": "一定",
+        "sentence": "必ずご連絡ください",
+        "answer": "かならず",
+        "userAnswer": ""
+    },
+    {
+        "id": 18,
+        "name": "絶対に",
+        "meaning": "絕對地",
+        "sentence": "試験の時間に絶対に遅れないようにしてください",
+        "answer": "ぜったいに",
+        "userAnswer": ""
+    },
+    {
+        "id": 19,
+        "name": "上手に",
+        "meaning": "好、熟練、擅長",
+        "sentence": "日本語が上手に話せるようになりたいです",
+        "answer": "じょうずに",
+        "userAnswer": ""
+    },
+    {
+        "id": 20,
+        "name": "できるだけ",
+        "meaning": "盡可能、盡量",
+        "sentence": "できるだけ毎日歩くようにしています",
+        "answer": "できるだけ",
+        "userAnswer": ""
+    },
+    {
+        "id": 21,
+        "name": "ほとんど",
+        "meaning": "幾乎(肯定句)，幾乎完全(否定句)",
+        "sentence": "ほとんど毎日きゅうりを食べます",
+        "answer": "ほとんど",
+        "userAnswer": ""
+    },
+    {
+        "id": 22,
+        "name": "お客様",
+        "meaning": "顧客、客戶(「おきゃくさん」的尊敬語)",
+        "sentence": "送料はお客様負担となります",
+        "answer": "おきゃくさま",
+        "userAnswer": ""
+    },
+    {
+        "id": 23,
+        "name": "特別",
+        "meaning": "特別",
+        "sentence": "今日は特別な日",
+        "answer": "とくべつ",
+        "userAnswer": ""
+    },
+    {
+        "id": 24,
+        "name": "していらっしゃいます",
+        "meaning": "正在做(「しています」的尊敬語)",
+        "sentence": "何か特別なことをしていらっしゃいますか",
+        "answer": "していらっしゃいます",
+        "userAnswer": ""
+    },
+    {
+        "id": 25,
+        "name": "水泳",
+        "meaning": "游泳",
+        "sentence": "水泳が得意ではありません",
+        "answer": "すいえい",
+        "userAnswer": ""
+    },
+    {
+        "id": 26,
+        "name": "違います",
+        "meaning": "不同，不一樣",
+        "sentence": "東京は大阪ととても違います",
+        "answer": "ちがいます",
+        "userAnswer": ""
+    },
+    {
+        "id": 27,
+        "name": "使っていらっしゃるんですね",
+        "meaning": "使用...啊(「つかっているんですね」的尊敬語)",
+        "sentence": "頭と体をよく使っていらっしゃるんですね",
+        "answer": "つかっていらっしゃるんですね",
+        "userAnswer": ""
+    },
+    {
+        "id": 28,
+        "name": "チャレンジします",
+        "meaning": "挑戰",
+        "sentence": "いろんなことにチャレンジしていきたい",
+        "answer": "チャレンジします",
+        "userAnswer": ""
+    },
+    {
+        "id": 29,
+        "name": "気持ち",
+        "meaning": "心情、情緒",
+        "sentence": "あなたの気持ちがよくわかります",
+        "answer": "きもち",
+        "userAnswer": ""
+    },
+    {
+        "id": 30,
+        "name": "乗り物",
+        "meaning": "交通工具",
+        "sentence": "今日、新しい乗り物を買いました。",
+        "answer": "のりもの",
+        "userAnswer": ""
+    },
+    {
+        "id": 31,
+        "name": "世紀",
+        "meaning": "世紀",
+        "sentence": "20世紀の日本は大きな変化を経験しました。",
+        "answer": "せいき",
+        "userAnswer": ""
+    },
+    {
+        "id": 32,
+        "name": "遠く",
+        "meaning": "遠處",
+        "sentence": "山の向こうに遠くの町が見えます。",
+        "answer": "とおく",
+        "userAnswer": ""
+    },
+    {
+        "id": 33,
+        "name": "珍しい",
+        "meaning": "珍奇、罕見",
+        "sentence": "この花はとても珍しい品種です。",
+        "answer": "めずらしい",
+        "userAnswer": ""
+    },
+    {
+        "id": 34,
+        "name": "汽車",
+        "meaning": "火車",
+        "sentence": "新幹線は日本の主要な交通手段の一つです。",
+        "answer": "きしゃ",
+        "userAnswer": ""
+    },
+    {
+        "id": 35,
+        "name": "汽船",
+        "meaning": "汽船",
+        "sentence": "この港から汽船で島に向かいます。",
+        "answer": "きせん",
+        "userAnswer": ""
+    },
+    {
+        "id": 36,
+        "name": "大勢の",
+        "meaning": "很多的(人)",
+        "sentence": "大勢の人が公園でピクニックを楽しんでいます。",
+        "answer": "おおぜいの",
+        "userAnswer": ""
+    },
+    {
+        "id": 37,
+        "name": "運びます",
+        "meaning": "運送",
+        "sentence": "荷物をトラックで運びます。",
+        "answer": "はこびます",
+        "userAnswer": ""
+    },
+    {
+        "id": 38,
+        "name": "利用します",
+        "meaning": "利用",
+        "sentence": "このアプリを利用して新しい言葉を学びます。",
+        "answer": "りようします",
+        "userAnswer": ""
+    },
+    {
+        "id": 39,
+        "name": "自由に",
+        "meaning": "自由地，隨意地",
+        "sentence": "週末には自由に時間を過ごすのが好きです。",
+        "answer": "じゆうに",
+        "userAnswer": ""
+    }
+]
 },
 {
 "id":37,
