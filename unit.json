@@ -3977,10 +3977,10 @@
     },
     {
         "id": 14,
-        "name": "このごる",
+        "name": "このごろ",
         "meaning": "這些日子、最近",
         "sentence": "このごろ良い天気が続いている",
-        "answer": "このごる",
+        "answer": "このごろ",
         "userAnswer": ""
     },
     {
@@ -4188,7 +4188,416 @@
 {
 "id":37,
 "title":"金閣寺は14世紀に建てられました",
-"vocabularies":[]
+"vocabularies":[
+  {
+    "id": 1,
+    "name": "褒めます",
+    "meaning": "讚美、表揚",
+    "sentence": "先生はわたしを褒めました",
+    "answer": "ほめます",
+    "userAnswer": ""
+  },
+  {
+    "id": 2,
+    "name": "しかります",
+    "meaning": "責罵",
+    "sentence": "子供の時、よく父に𠮟られた",
+    "answer": "しかります",
+    "userAnswer": ""
+  },
+  {
+    "id": 3,
+    "name": "誘います",
+    "meaning": "邀請",
+    "sentence": "彼はわたしを映画に誘いました",
+    "answer": "さそいます",
+    "userAnswer": ""
+  },
+  {
+    "id": 4,
+    "name": "招待します",
+    "meaning": "招待",
+    "sentence": "友達に招待されてやって来ました",
+    "answer": "しょうたいします",
+    "userAnswer": ""
+  },
+  {
+    "id": 5,
+    "name": "頼みます",
+    "meaning": "請求、委託",
+    "sentence": "母はわたしに買い物を頼みました",
+    "answer": "たのみます",
+    "userAnswer": ""
+  },
+  {
+    "id": 6,
+    "name": "注意します",
+    "meaning": "提醒、警告",
+    "sentence": "母に早く寝るように注意された",
+    "answer": "ちゅういします",
+    "userAnswer": ""
+  },
+  {
+    "id": 7,
+    "name": "とります",
+    "meaning": "偷、搶",
+    "sentence": "わたしは泥棒にかばんをとられました",
+    "answer": "とります",
+    "userAnswer": ""
+  },
+  {
+    "id": 8,
+    "name": "踏みます",
+    "meaning": "踩",
+    "sentence": "ラッシュの電車で足を踏まれました",
+    "answer": "ふみます",
+    "userAnswer": ""
+  },
+  {
+    "id": 9,
+    "name": "壊します",
+    "meaning": "弄壞",
+    "sentence": "わたしは弟にパソコンを壊れました",
+    "answer": "こわします",
+    "userAnswer": ""
+  },
+  {
+    "id": 10,
+    "name": "汚します",
+    "meaning": "弄髒",
+    "sentence": "わたしは子供に服を汚されました",
+    "answer": "よごします",
+    "userAnswer": ""
+  },
+  {
+    "id": 11,
+    "name": "行います",
+    "meaning": "舉行、舉辦",
+    "sentence": "明日、テストを行います",
+    "answer": "おこないます",
+    "userAnswer": ""
+  },
+  {
+    "id": 12,
+    "name": "輸出します",
+    "meaning": "出口",
+    "sentence": "日本の車は世界中へ輸出されています",
+    "answer": "ゆしゅつします",
+    "userAnswer": ""
+  },
+  {
+    "id": 13,
+    "name": "輸入します",
+    "meaning": "進口",
+    "sentence": "中国からお茶が輸入されています",
+    "answer": "ゆにゅうします",
+    "userAnswer": ""
+  },
+  {
+    "id": 14,
+    "name": "翻訳します",
+    "meaning": "翻譯",
+    "sentence": "すべで日本語に翻訳されています",
+    "answer": "ほんやくします",
+    "userAnswer": ""
+  },
+  {
+    "id": 15,
+    "name": "発明します",
+    "meaning": "發明",
+    "sentence": "電話はベルによって発明されました",
+    "answer": "はつめいします",
+    "userAnswer": ""
+  },
+  {
+    "id": 16,
+    "name": "発見します",
+    "meaning": "發現",
+    "sentence": "フランスで昔の日本の絵が発見されました",
+    "answer": "はっけんします",
+    "userAnswer": ""
+  },
+  {
+    "id": 17,
+    "name": "米",
+    "meaning": "稻米",
+    "sentence": "お米を2合炊いてください",
+    "answer": "こめ",
+    "userAnswer": ""
+  },
+  {
+    "id": 18,
+    "name": "麦",
+    "meaning": "麥子",
+    "sentence": "ビールは麦から造られます",
+    "answer": "むぎ",
+    "userAnswer": ""
+  },
+  {
+    "id": 19,
+    "name": "石油",
+    "meaning": "石油",
+    "sentence": "日本は石油のほとんどを輸入している",
+    "answer": "せきゆ",
+    "userAnswer": ""
+  },
+  {
+    "id": 20,
+    "name": "原料",
+    "meaning": "原料",
+    "sentence": "日本酒の主要な原料は米です",
+    "answer": "げんりょう",
+    "userAnswer": ""
+  },
+  {
+    "id": 21,
+    "name": "インスタントラーメン",
+    "meaning": "泡麵、速食麵",
+    "sentence": "貯金をするため、彼は毎日インスタントラーメンを食べている",
+    "answer": "インスタントラーメン",
+    "userAnswer": ""
+  },
+  {
+    "id": 22,
+    "name": "デート",
+    "meaning": "約會",
+    "sentence": "デートしたいけど、お金がない",
+    "answer": "デート",
+    "userAnswer": ""
+  },
+  {
+    "id": 23,
+    "name": "泥棒",
+    "meaning": "小偷",
+    "sentence": "警官が泥棒を追いかける",
+    "answer": "どろぼう",
+    "userAnswer": ""
+  },
+  {
+    "id": 24,
+    "name": "警官",
+    "meaning": "警官",
+    "sentence": "わたしは警官に名前と住所を聞かれました",
+    "answer": "けいかん",
+    "userAnswer": ""
+  },
+  {
+    "id": 25,
+    "name": "世界中",
+    "meaning": "全世界",
+    "sentence": "もっと世界中に友達を作りたい",
+    "answer": "せかいじゅう",
+    "userAnswer": ""
+  },
+  {
+    "id": 26,
+    "name": "中",
+    "meaning": "全...、整個",
+    "sentence": "もっと世界中に友達を作りたい",
+    "answer": "じゅう",
+    "userAnswer": ""
+  },
+  {
+    "id": 27,
+    "name": "世紀",
+    "meaning": "世紀",
+    "sentence": "キリスト教は16世紀半ばに日本に伝えられた",
+    "answer": "せいき",
+    "userAnswer": ""
+  },
+  {
+    "id": 28,
+    "name": "何語",
+    "meaning": "哪種語言",
+    "sentence": "あなたの国では何語を話しますか",
+    "answer": "なんご",
+    "userAnswer": ""
+  },
+  {
+    "id": 29,
+    "name": "誰か",
+    "meaning": "有誰",
+    "sentence": "だれかお探しですか",
+    "answer": "だれか",
+    "userAnswer": ""
+  },
+  {
+    "id": 30,
+    "name": "よかったですね",
+    "meaning": "太好了",
+    "sentence": "雨が降らなくて良かったですね",
+    "answer": "よかったですね",
+    "userAnswer": ""
+  },
+  {
+    "id": 31,
+    "name": "皆様",
+    "meaning": "各位(「みなさん」的尊敬語)",
+    "sentence": "ご家族の皆様によろしくお伝えください",
+    "answer": "みなさま",
+    "userAnswer": ""
+  },
+  {
+    "id": 32,
+    "name": "焼けます",
+    "meaning": "起火、燃燒",
+    "sentence": "火事で家が焼けました",
+    "answer": "やけます",
+    "userAnswer": ""
+  },
+  {
+    "id": 33,
+    "name": "その後",
+    "meaning": "之後、後來",
+    "sentence": "その後はお土産などを買いました",
+    "answer": "そのご",
+    "userAnswer": ""
+  },
+  {
+    "id": 34,
+    "name": "世界遺産",
+    "meaning": "世界遺產",
+    "sentence": "富士山は2013年に世界遺産として登録されました",
+    "answer": "せかいいさん",
+    "userAnswer": ""
+  },
+  {
+    "id": 35,
+    "name": "の一つ",
+    "meaning": "之一",
+    "sentence": "寿司は、日本の伝統的な料理の一つです",
+    "answer": "のひとつ",
+    "userAnswer": ""
+  },
+  {
+    "id": 36,
+    "name": "金色",
+    "meaning": "金色",
+    "sentence": "髪を金色に染めました",
+    "answer": "きんいろ",
+    "userAnswer": ""
+  },
+  {
+    "id": 37,
+    "name": "本物",
+    "meaning": "真貨、真的",
+    "sentence": "この絵は本物ですか",
+    "answer": "ほんもの",
+    "userAnswer": ""
+  },
+  {
+    "id": 38,
+    "name": "金",
+    "meaning": "金子",
+    "sentence": "金の値段がめちゃくちゃ高い",
+    "answer": "きん",
+    "userAnswer": ""
+  },
+  {
+    "id": 39,
+    "name": "キロ",
+    "meaning": "公斤、公里",
+    "sentence": "あなたは20キロ走れますか",
+    "answer": "キロ",
+    "userAnswer": ""
+  },
+  {
+    "id": 40,
+    "name": "美しい",
+    "meaning": "美麗、好看",
+    "sentence": "美しい海を見たいです",
+    "answer": "うつくしい",
+    "userAnswer": ""
+  },
+  {
+    "id": 41,
+    "name": "豪華",
+    "meaning": "豪華",
+    "sentence": "このホテルはとても豪華です。",
+    "answer": "ごうか",
+    "userAnswer": ""
+  },
+  {
+    "id": 42,
+    "name": "彫刻",
+    "meaning": "雕刻",
+    "sentence": "美術館には素晴らしい彫刻が展示されています。",
+    "answer": "ちょうこく",
+    "userAnswer": ""
+  },
+  {
+    "id": 43,
+    "name": "言い伝え",
+    "meaning": "傳說",
+    "sentence": "この地域には古い言い伝えがたくさんあります。",
+    "answer": "いいつたえ",
+    "userAnswer": ""
+  },
+  {
+    "id": 44,
+    "name": "眠ります",
+    "meaning": "睡覺",
+    "sentence": "長い一日の後、私はよく眠ります。",
+    "answer": "ねむります",
+    "userAnswer": ""
+  },
+  {
+    "id": 45,
+    "name": "彫ります",
+    "meaning": "雕",
+    "sentence": "彫刻家は木を彫って美しい作品を作ります。",
+    "answer": "ほります",
+    "userAnswer": ""
+  },
+  {
+    "id": 46,
+    "name": "仲間",
+    "meaning": "朋友、夥伴",
+    "sentence": "私の仲間たちと楽しい時間を過ごしました。",
+    "answer": "なかま",
+    "userAnswer": ""
+  },
+  {
+    "id": 47,
+    "name": "しかし",
+    "meaning": "但是",
+    "sentence": "天気は良いです。しかし、雨が降るかもしれません。",
+    "answer": "しかし",
+    "userAnswer": ""
+  },
+  {
+    "id": 48,
+    "name": "そのあと",
+    "meaning": "之後、後來",
+    "sentence": "昼食の後、そのあとにミーティングがあります。",
+    "answer": "そのあと",
+    "userAnswer": ""
+  },
+  {
+    "id": 49,
+    "name": "一生懸命",
+    "meaning": "努力、拼命",
+    "sentence": "彼は一生懸命働いて成功を収めました。",
+    "answer": "いっしょうけんめい",
+    "userAnswer": ""
+  },
+  {
+    "id": 50,
+    "name": "ねずみ",
+    "meaning": "老鼠",
+    "sentence": "キッチンにねずみが現れたので、駆除しなければなりません。",
+    "answer": "ねずみ",
+    "userAnswer": ""
+  },
+  {
+    "id": 51,
+    "name": "一匹もいません",
+    "meaning": "一隻也沒有",
+    "sentence": "庭に一匹もいません。静かですね。",
+    "answer": "いっぴきもいません",
+    "userAnswer": ""
+  }
+]
 },
 {
 "id":38,
@@ -4609,5 +5018,4 @@
     }
   ]
 }
-
 ]
