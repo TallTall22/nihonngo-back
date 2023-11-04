@@ -4513,7 +4513,7 @@
     "id": 41,
     "name": "豪華",
     "meaning": "豪華",
-    "sentence": "このホテルはとても豪華です。",
+    "sentence": "このホテルはとても豪華です",
     "answer": "ごうか",
     "userAnswer": ""
   },
@@ -4521,7 +4521,7 @@
     "id": 42,
     "name": "彫刻",
     "meaning": "雕刻",
-    "sentence": "美術館には素晴らしい彫刻が展示されています。",
+    "sentence": "美術館には素晴らしい彫刻が展示されています",
     "answer": "ちょうこく",
     "userAnswer": ""
   },
@@ -4529,7 +4529,7 @@
     "id": 43,
     "name": "言い伝え",
     "meaning": "傳說",
-    "sentence": "この地域には古い言い伝えがたくさんあります。",
+    "sentence": "この地域には古い言い伝えがたくさんあります",
     "answer": "いいつたえ",
     "userAnswer": ""
   },
@@ -4537,7 +4537,7 @@
     "id": 44,
     "name": "眠ります",
     "meaning": "睡覺",
-    "sentence": "長い一日の後、私はよく眠ります。",
+    "sentence": "長い一日の後、私はよく眠ります",
     "answer": "ねむります",
     "userAnswer": ""
   },
@@ -4545,7 +4545,7 @@
     "id": 45,
     "name": "彫ります",
     "meaning": "雕",
-    "sentence": "彫刻家は木を彫って美しい作品を作ります。",
+    "sentence": "彫刻家は木を彫って美しい作品を作ります",
     "answer": "ほります",
     "userAnswer": ""
   },
@@ -4553,7 +4553,7 @@
     "id": 46,
     "name": "仲間",
     "meaning": "朋友、夥伴",
-    "sentence": "私の仲間たちと楽しい時間を過ごしました。",
+    "sentence": "私の仲間たちと楽しい時間を過ごしました",
     "answer": "なかま",
     "userAnswer": ""
   },
@@ -4561,7 +4561,7 @@
     "id": 47,
     "name": "しかし",
     "meaning": "但是",
-    "sentence": "天気は良いです。しかし、雨が降るかもしれません。",
+    "sentence": "天気は良いです。しかし、雨が降るかもしれません",
     "answer": "しかし",
     "userAnswer": ""
   },
@@ -4569,7 +4569,7 @@
     "id": 48,
     "name": "そのあと",
     "meaning": "之後、後來",
-    "sentence": "昼食の後、そのあとにミーティングがあります。",
+    "sentence": "昼食の後、そのあとにミーティングがあります",
     "answer": "そのあと",
     "userAnswer": ""
   },
@@ -4577,7 +4577,7 @@
     "id": 49,
     "name": "一生懸命",
     "meaning": "努力、拼命",
-    "sentence": "彼は一生懸命働いて成功を収めました。",
+    "sentence": "彼は一生懸命働いて成功を収めました",
     "answer": "いっしょうけんめい",
     "userAnswer": ""
   },
@@ -4585,7 +4585,7 @@
     "id": 50,
     "name": "ねずみ",
     "meaning": "老鼠",
-    "sentence": "キッチンにねずみが現れたので、駆除しなければなりません。",
+    "sentence": "キッチンにねずみが現れたので、駆除しなければなりません",
     "answer": "ねずみ",
     "userAnswer": ""
   },
@@ -4593,7 +4593,7 @@
     "id": 51,
     "name": "一匹もいません",
     "meaning": "一隻也沒有",
-    "sentence": "庭に一匹もいません。静かですね。",
+    "sentence": "庭に一匹もいません。静かですね",
     "answer": "いっぴきもいません",
     "userAnswer": ""
   }
@@ -4602,7 +4602,441 @@
 {
 "id":38,
 "title":"片づけるのがすきなんです",
-"vocabularies":[]
+"vocabularies":[
+  {
+    "id": 1,
+    "name": "参加します",
+    "meaning": "參加",
+    "sentence": "運動会に参加しますか",
+    "answer": "さんかします",
+    "userAnswer": ""
+  },
+  {
+    "id": 2,
+    "name": "育てます",
+    "meaning": "培育、撫養",
+    "sentence": "わたしは花を育てるのが好きです",
+    "answer": "そだてます",
+    "userAnswer": ""
+  },
+  {
+    "id": 3,
+    "name": "運びます",
+    "meaning": "搬、搬運",
+    "sentence": "これはわたしが自分で運びます",
+    "answer": "はこびます",
+    "userAnswer": ""
+  },
+  {
+    "id": 4,
+    "name": "入院します",
+    "meaning": "住院",
+    "sentence": "彼は怪我をして入院していた",
+    "answer": "にゅういんします",
+    "userAnswer": ""
+  },
+  {
+    "id": 5,
+    "name": "退院します",
+    "meaning": "出院",
+    "sentence": "彼女は元気になって退院した",
+    "answer": "たいいんします",
+    "userAnswer": ""
+  },
+  {
+    "id": 6,
+    "name": "入れます",
+    "meaning": "打開(ex:電源)",
+    "sentence": "どうやって電源を入れるの",
+    "answer": "いれます",
+    "userAnswer": ""
+  },
+  {
+    "id": 7,
+    "name": "切ります",
+    "meaning": "關上(ex:電源)",
+    "sentence": "わたしが電源を切ります",
+    "answer": "きります",
+    "userAnswer": ""
+  },
+  {
+    "id": 8,
+    "name": "掛けます",
+    "meaning": "上(ex:鎖)",
+    "sentence": "鍵を掛けるのを忘れました",
+    "answer": "かけます",
+    "userAnswer": ""
+  },
+  {
+    "id": 9,
+    "name": "つきます",
+    "meaning": "說(ex:謊)",
+    "sentence": "今までにわたしに噓をつきましたか",
+    "answer": "つきます",
+    "userAnswer": ""
+  },
+  {
+    "id": 10,
+    "name": "気持ちがいい",
+    "meaning": "舒服",
+    "sentence": "今日は天気が良くて気持ちがいい",
+    "answer": "きもちがいい",
+    "userAnswer": ""
+  },
+  {
+    "id": 11,
+    "name": "気持ちが悪い",
+    "meaning": "不舒服",
+    "sentence": "食べ過ぎて気持ちが悪い",
+    "answer": "きもちがわるい",
+    "userAnswer": ""
+  },
+  {
+    "id": 12,
+    "name": "大きな",
+    "meaning": "大的",
+    "sentence": "昨日そこで大きな犬を見た",
+    "answer": "おおきな",
+    "userAnswer": ""
+  },
+  {
+    "id": 13,
+  "name": "小さな",
+  "meaning": "小的",
+  "sentence": "わたしは時々小さな間違いをする",
+  "answer": "ちいさな",
+  "userAnswer": ""
+  },
+  {
+    "id": 14,
+    "name": "赤ちゃん",
+    "meaning": "嬰兒",
+    "sentence": "彼女は赤ちゃんを生みました",
+    "answer": "あかちゃん",
+    "userAnswer": ""
+  },
+  {
+    "id": 15,
+    "name": "小学校",
+    "meaning": "小學",
+    "sentence": "彼女は昔小学校の先生だった",
+    "answer": "しょうがっこう",
+    "userAnswer": ""
+  },
+  {
+    "id": 16,
+  "name": "中学校",
+  "meaning": "中學",
+  "sentence": "先日、中学校の友達にあった",
+  "answer": "ちゅうがっこう",
+  "userAnswer": ""
+  },
+  {
+    "id": 17,
+  "name": "駅前",
+  "meaning": "車站前",
+  "sentence": "この本は駅前の書店で買った",
+  "answer": "えきまえ",
+  "userAnswer": ""
+  },
+  {
+    "id": 18,
+  "name": "海岸",
+  "meaning": "海岸",
+  "sentence": "夏には多くの人が海岸に行って水泳をする",
+  "answer": "かいがん",
+  "userAnswer": ""
+  },
+  {
+    "id": 19,
+  "name": "工場",
+  "meaning": "工廠",
+  "sentence": "この工場は設備がひどく古い",
+    "answer": "こうじょう",
+    "userAnswer": ""
+  },
+  {
+    "id": 20,
+  "name": "村",
+  "meaning": "村、村莊",
+  "sentence": "その村で再来週にお祭りがあります",
+    "answer": "むら",
+    "userAnswer": ""
+  },
+  {
+    "id": 21,
+  "name": "かな",
+  "meaning": "假名(日文字母)",
+  "sentence": "携帯電話にひらがなを入力する",
+  "answer": "かな",
+  "userAnswer": ""
+  },
+  {
+    "id": 22,
+  "name": "指輪",
+  "meaning": "戒指",
+  "sentence": "この指輪を見せてください",
+  "answer": "ゆびわ",
+  "userAnswer": ""
+  },
+  {
+    "id": 23,
+  "name": "電源",
+  "meaning": "電源",
+  "sentence": "その冷蔵庫は電源が壊れている",
+  "answer": "でんげん",
+  "userAnswer": ""
+  },
+  {
+    "id": 24,
+  "name": "習慣",
+  "meaning": "習慣",
+  "sentence": "音を立てて麵をすするのが日本の習慣です",
+  "answer": "しゅうかん",
+  "userAnswer": ""
+  },
+  {
+    "id": 25,
+  "name": "健康",
+  "meaning": "健康",
+  "sentence": "健康のために運動することに賛成です",
+  "answer": "けんこう",
+  "userAnswer": ""
+  },
+  {
+    "id": 26,
+  "name": "製",
+  "meaning": "製",
+  "sentence": "彼は日本製の時計を欲しがっています",
+  "answer": "せい",
+  "userAnswer": ""
+  },
+  {
+    "id": 27,
+  "name": "おととし",
+  "meaning": "前年",
+  "sentence": "おととしの海外旅行はとても楽しかったです",
+  "answer": "おととし",
+  "userAnswer": ""
+  },
+  {
+  "id": 28,
+  "name": "いけない",
+  "meaning": "[啊，]糟了。(用了做錯什麼或失敗時)",
+  "sentence": "宿題を忘れた。いけない",
+  "answer": "いけない",
+  "userAnswer": ""
+}
+,
+  {
+    "id": 29,
+  "name": "お先に失礼します",
+  "meaning": "我先告辭了/我先走了",
+  "sentence": "お先に失礼します",
+  "answer": "おさきにしつれいします",
+  "userAnswer": ""
+  },
+  {
+    "id": 30,
+  "name": "回覧",
+  "meaning": "通知、傳聞",
+  "sentence": "回覧にはんこを押すのを忘れないでください",
+  "answer": "かいらん",
+  "userAnswer": ""
+  },
+  {
+    "id": 31,
+  "name": "研究室",
+  "meaning": "研究室",
+  "sentence": "先生は研究室にいらっしゃいます",
+  "answer": "けんきゅうしつ",
+  "userAnswer": ""
+  },
+  {
+    "id": 32,
+  "name": "きちんと",
+  "meaning": "整齊地",
+  "sentence": "きちんと並べられています",
+  "answer": "きちんと",
+  "userAnswer": ""
+  },
+  {
+    "id": 33,
+  "name": "整理します",
+  "meaning": "整理、收拾",
+  "sentence": "資料をきちんと整理する",
+  "answer": "せいりします",
+  "userAnswer": ""
+  },
+  {
+    "id": 34,
+  "name": "方法",
+  "meaning": "方法",
+  "sentence": "支払い方法は何ですか",
+  "answer": "ほうほう",
+  "userAnswer": ""
+  },
+  {
+    "id": 35,
+  "name": "という",
+  "meaning": "叫、名為",
+  "sentence": "「上手な整理の方法」という本を読んでいます",
+  "answer": "という",
+  "userAnswer": ""
+  },
+  {
+    "id": 36,
+  "name": "冊",
+  "meaning": "本、冊",
+  "sentence": "図書館から本を3冊借りました",
+  "answer": "さつ",
+  "userAnswer": ""
+  },
+  {
+    "id": 37,
+  "name": "はんこ",
+  "meaning": "章、印章",
+  "sentence": "サインではなくて、はんこをください",
+  "answer": "はんこ",
+  "userAnswer": ""
+  },
+  {
+    "id": 38,
+  "name": "押します",
+  "meaning": "蓋(ex:章)",
+  "sentence": "名前のよこにはんこを押していただけませんか",
+  "answer": "おします",
+  "userAnswer": ""
+  },
+  {
+    "id": 39,
+    "name": "双子",
+    "meaning": "雙胞胎",
+    "sentence": "この兄弟は双子です。",
+    "answer": "ふたご",
+    "userAnswer": ""
+  },
+  {
+    "id": 40,
+    "name": "姉妹",
+    "meaning": "姊妹",
+    "sentence": "私の姉妹はとても親切です。",
+    "answer": "しまい",
+    "userAnswer": ""
+  },
+  {
+    "id": 41,
+    "name": "5年生",
+    "meaning": "五年級學生",
+    "sentence": "私たちのクラスにはたくさんの5年生がいます。",
+    "answer": "ごねんせい",
+    "userAnswer": ""
+  },
+  {
+    "id": 42,
+    "name": "似ています",
+    "meaning": "相似、相像",
+    "sentence": "これらの2つの絵は似ています。",
+    "answer": "にています",
+    "userAnswer": ""
+  },
+  {
+    "id": 43,
+    "name": "性格",
+    "meaning": "性格",
+    "sentence": "彼女の性格はとても明るいです。",
+    "answer": "せいかく",
+    "userAnswer": ""
+  },
+  {
+    "id": 44,
+    "name": "おとなしい",
+    "meaning": "文靜、老實、溫順",
+    "sentence": "この猫はとてもおとなしいです。",
+    "answer": "おとなしい",
+    "userAnswer": ""
+  },
+  {
+    "id": 45,
+    "name": "優しい",
+    "meaning": "溫柔、親切",
+    "sentence": "彼女はとても優しい人です。",
+    "answer": "やさしい",
+    "userAnswer": ""
+  },
+  {
+    "id": 46,
+    "name": "世話をします",
+    "meaning": "照顧、照料",
+    "sentence": "彼女はいつも私たちに世話をしてくれます。",
+    "answer": "せわをします",
+    "userAnswer": ""
+  },
+  {
+    "id": 47,
+    "name": "時間がたちます",
+    "meaning": "時間過去",
+    "sentence": "時間がたちました。",
+    "answer": "じかんがたちます",
+    "userAnswer": ""
+  },
+  {
+    "id": 48,
+    "name": "大好き",
+    "meaning": "非常喜歡",
+    "sentence": "私はこの場所が大好きです。",
+    "answer": "だいすき",
+    "userAnswer": ""
+  },
+  {
+    "id": 49,
+    "name": "点",
+    "meaning": "分(考試的分數)",
+    "sentence": "私は試験で満点を取りました。",
+    "answer": "てん",
+    "userAnswer": ""
+  },
+  {
+    "id": 50,
+    "name": "気が強い",
+    "meaning": "好強、剛強",
+    "sentence": "彼女は気が強く、なかなか屈しません。",
+    "answer": "きがつよい",
+    "userAnswer": ""
+  },
+  {
+    "id": 51,
+    "name": "けんかします",
+    "meaning": "吵架、打架",
+    "sentence": "彼らはよくけんかします。",
+    "answer": "けんかします",
+    "userAnswer": ""
+  },
+  {
+    "id": 52,
+    "name": "不思議",
+    "meaning": "不可思議",
+    "sentence": "この話は本当に不思議です。",
+    "answer": "ふしぎ",
+    "userAnswer": ""
+  },
+  {
+    "id": 53,
+    "name": "年齢",
+    "meaning": "年齡",
+    "sentence": "あなたの年齢はいくつですか？",
+    "answer": "ねんれい",
+    "userAnswer": ""
+  },
+  {
+    "id": 54,
+    "name": "しかた",
+    "meaning": "方法、辦法",
+    "sentence": "あなたは良いしかたを知っていますか？",
+    "answer": "しかた",
+    "userAnswer": ""
+  }
+]
 },
   {
   "id": 39,
