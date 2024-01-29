@@ -27,8 +27,8 @@ const client = new textToSpeech.TextToSpeechClient();
 
 app.get('/', async (req, res, next) => {
   try {
-    for (let i = 0; i < unit.length; i++) {
-      for (const word of unit[i].vocabularies) {
+    const currentUnit=Number(req.query.currentUnit)
+      for (const word of unit[currentUnit].vocabularies) {
         const wordKey = word.sentence; // 使用單詞作為緩存鍵
         const cachedSpeech = cache.get(wordKey);
 
@@ -51,7 +51,6 @@ app.get('/', async (req, res, next) => {
           cache.put(wordKey, word.speech, cacheTime);
         }
       }
-    }
 
     // 將 JSON 對象作為回應發送給客戶端
     res.json(unit);
