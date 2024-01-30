@@ -27,7 +27,7 @@ const client = new textToSpeech.TextToSpeechClient();
 
 app.get('/', async (req, res, next) => {
   try {
-    const currentUnit=Number(req.query.currentUnit)
+    const currentUnit=Number(req.query.currentUnit) ||0
       for (const word of unit[currentUnit].vocabularies) {
         const wordKey = word.sentence; // 使用單詞作為緩存鍵
         const cachedSpeech = cache.get(wordKey);
